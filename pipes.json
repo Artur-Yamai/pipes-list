@@ -1,0 +1,4503 @@
+{
+  "pipes": [
+  {
+    "id": "f390cafa-7ccf-49fe-900c-b8e9a02f194f",
+    "name": "Cofine - Centrexin",
+    "purposeId": "71e93c8c-c01d-4bc2-a9bb-bbc9208844f0",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 181,
+    "thickness": 9,
+    "formationDate": "2017-08-07"
+  },
+  {
+    "id": "27e419ca-4683-44ab-bc08-b03674764c90",
+    "name": "Cubicide - Virva",
+    "purposeId": "89c270dd-db6c-4227-bb7e-43c7b1408d69",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 71,
+    "thickness": 8,
+    "formationDate": "2016-11-10"
+  },
+  {
+    "id": "ca98038e-2099-4041-855b-ac7fe3f4b3d7",
+    "name": "Zentia - Exotechno",
+    "purposeId": "4f91650e-df7d-4159-ad08-96fa454daaef",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 175,
+    "thickness": 8,
+    "formationDate": "2017-01-20"
+  },
+  {
+    "id": "84263b14-ef92-44bc-9d60-c2bd3f643491",
+    "name": "Zilch - Kraggle",
+    "purposeId": "77b88070-d0ce-48bc-8032-9e01de4dc95e",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 161,
+    "thickness": 13,
+    "formationDate": "2019-05-05"
+  },
+  {
+    "id": "87c78fed-fd1b-4e94-b84f-f550186d4dee",
+    "name": "Mixers - Comtract",
+    "purposeId": "1fc369a7-4c30-4f5d-a7b1-34d4b1da0af0",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 62,
+    "thickness": 9,
+    "formationDate": "2015-07-01"
+  },
+  {
+    "id": "03a56803-48a3-4e37-80a5-d22d2fd644a0",
+    "name": "Remotion - Comtent",
+    "purposeId": "6e44e529-2aa5-4605-b9a7-28e175f0147e",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 77,
+    "thickness": 9,
+    "formationDate": "2014-04-23"
+  },
+  {
+    "id": "f66aa826-ff56-46f7-9980-05d35bd7a18d",
+    "name": "Pholio - Ozean",
+    "purposeId": "fbac4a05-3a09-4b34-9d87-e3ee79867a3a",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 91,
+    "thickness": 9,
+    "formationDate": "2020-11-18"
+  },
+  {
+    "id": "88bce89b-5e2b-4462-877e-ead14f656eeb",
+    "name": "Geologix - Aquacine",
+    "purposeId": "0fb8e4d4-ab71-4b9c-a257-992a0b8e543c",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 173,
+    "thickness": 8,
+    "formationDate": "2016-09-27"
+  },
+  {
+    "id": "c38296c2-8327-40b5-b7f6-b5daa34dc222",
+    "name": "Genmex - Eschoir",
+    "purposeId": "cb1851a5-8c8d-40bb-befd-f1fd7085c8ff",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 107,
+    "thickness": 12,
+    "formationDate": "2014-06-04"
+  },
+  {
+    "id": "0288d9ba-906d-440f-a662-caa9190ef030",
+    "name": "Telpod - Plasmosis",
+    "purposeId": "3ea0fd18-58e8-4e41-ad78-45918f4374b8",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 132,
+    "thickness": 8,
+    "formationDate": "2016-06-21"
+  },
+  {
+    "id": "3ad6cd35-9039-4d6e-a30b-acfbae1544b4",
+    "name": "Locazone - Turnling",
+    "purposeId": "0fb8e4d4-ab71-4b9c-a257-992a0b8e543c",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 65,
+    "thickness": 13,
+    "formationDate": "2016-03-26"
+  },
+  {
+    "id": "9336391e-9476-4fe7-9e18-491400f2bf67",
+    "name": "Crustatia - Hyplex",
+    "purposeId": "ad1e6ee7-b179-4772-97bd-09a8d9cfa601",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 104,
+    "thickness": 12,
+    "formationDate": "2017-05-04"
+  },
+  {
+    "id": "8d824b41-5bed-4c48-8522-0e9c59dc89ce",
+    "name": "Zoxy - Sequitur",
+    "purposeId": "cb1851a5-8c8d-40bb-befd-f1fd7085c8ff",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 185,
+    "thickness": 11,
+    "formationDate": "2017-08-19"
+  },
+  {
+    "id": "020092b5-7b1b-4e9f-a537-2640088130c9",
+    "name": "Neteria - Deviltoe",
+    "purposeId": "ed3ba04a-6d03-42c9-bb99-0ba2dfd971b7",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 87,
+    "thickness": 7,
+    "formationDate": "2018-11-16"
+  },
+  {
+    "id": "8ded72bd-5a43-4455-987f-7af2387c19ae",
+    "name": "Zentime - Genekom",
+    "purposeId": "ad1e6ee7-b179-4772-97bd-09a8d9cfa601",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 143,
+    "thickness": 9,
+    "formationDate": "2018-08-21"
+  },
+  {
+    "id": "20b58020-a567-4ba1-b5de-980781e4fa7a",
+    "name": "Fortean - Zillidium",
+    "purposeId": "7034b3b4-0537-4522-9e37-3a032f3dcb32",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 74,
+    "thickness": 12,
+    "formationDate": "2016-09-09"
+  },
+  {
+    "id": "0f4c927c-7915-4a02-90bf-3a8910b66a54",
+    "name": "Eventix - Medalert",
+    "purposeId": "55643062-5cd6-476c-918c-d2c054a0d529",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 123,
+    "thickness": 6,
+    "formationDate": "2015-11-03"
+  },
+  {
+    "id": "139f5d37-9516-464b-aa47-71c6de43a236",
+    "name": "Imkan - Pivitol",
+    "purposeId": "db9d6c99-67aa-449c-bcac-81de65e6de2d",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 69,
+    "thickness": 13,
+    "formationDate": "2019-04-21"
+  },
+  {
+    "id": "59f7f393-9711-4752-94e3-692d711ba8a1",
+    "name": "Intradisk - Dymi",
+    "purposeId": "3ea0fd18-58e8-4e41-ad78-45918f4374b8",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 170,
+    "thickness": 13,
+    "formationDate": "2020-10-03"
+  },
+  {
+    "id": "d20fba27-08c8-442e-ba2e-35237ec8fb07",
+    "name": "Geoforma - Paprikut",
+    "purposeId": "ed3ba04a-6d03-42c9-bb99-0ba2dfd971b7",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 192,
+    "thickness": 5,
+    "formationDate": "2018-10-30"
+  },
+  {
+    "id": "83e6ec8b-befa-4105-b333-cf2fa9430394",
+    "name": "Quarx - Yogasm",
+    "purposeId": "55643062-5cd6-476c-918c-d2c054a0d529",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 153,
+    "thickness": 8,
+    "formationDate": "2018-08-15"
+  },
+  {
+    "id": "3094b0c3-625a-42e0-ae00-7172b382a009",
+    "name": "Comvex - Automon",
+    "purposeId": "e6b1286c-84d3-4ed7-84d6-a3bc2a1b74fd",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 188,
+    "thickness": 14,
+    "formationDate": "2015-02-01"
+  },
+  {
+    "id": "4ea7cf17-1830-4bc6-a6ea-568a24cbfaf3",
+    "name": "Comfirm - Pyramia",
+    "purposeId": "ad1e6ee7-b179-4772-97bd-09a8d9cfa601",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 55,
+    "thickness": 6,
+    "formationDate": "2017-12-31"
+  },
+  {
+    "id": "9fc86541-38e1-4c27-b080-d9901b3c8d9c",
+    "name": "Lyrichord - Emtrac",
+    "purposeId": "e6b1286c-84d3-4ed7-84d6-a3bc2a1b74fd",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 114,
+    "thickness": 12,
+    "formationDate": "2019-04-05"
+  },
+  {
+    "id": "c0366c30-b36a-4760-bba7-47292a259284",
+    "name": "Flum - Zinca",
+    "purposeId": "ad1e6ee7-b179-4772-97bd-09a8d9cfa601",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 123,
+    "thickness": 10,
+    "formationDate": "2020-10-21"
+  },
+  {
+    "id": "96a2dd73-b9f3-4ab4-96ed-17a4b90c3678",
+    "name": "Newcube - Xleen",
+    "purposeId": "a07e14f4-ae10-4fa9-bbcc-422ec5e6cd63",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 70,
+    "thickness": 11,
+    "formationDate": "2014-03-15"
+  },
+  {
+    "id": "89af60ab-1521-45ee-8a40-387e2aba350f",
+    "name": "Krag - Medicroix",
+    "purposeId": "55643062-5cd6-476c-918c-d2c054a0d529",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 105,
+    "thickness": 15,
+    "formationDate": "2015-09-16"
+  },
+  {
+    "id": "bd1c4b83-7823-404e-9988-9605b69e96eb",
+    "name": "Jasper - Zaya",
+    "purposeId": "cdc8f1c7-0f0a-4c21-abf7-102a9be7b428",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 119,
+    "thickness": 8,
+    "formationDate": "2017-07-21"
+  },
+  {
+    "id": "c047b990-c160-418b-8659-b7218eaa972a",
+    "name": "Qot - Norsul",
+    "purposeId": "cdc8f1c7-0f0a-4c21-abf7-102a9be7b428",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 200,
+    "thickness": 5,
+    "formationDate": "2014-02-12"
+  },
+  {
+    "id": "dc465fb7-95f7-417d-b6cc-69cb55eb18ca",
+    "name": "Beadzza - Enaut",
+    "purposeId": "2dd4bdcb-6f27-49d8-9c43-87ac27bbf0f8",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 168,
+    "thickness": 8,
+    "formationDate": "2017-05-08"
+  },
+  {
+    "id": "a7cd21f1-fd43-43c6-b46e-e6588bab1b6b",
+    "name": "Egypto - Ezent",
+    "purposeId": "e6b1286c-84d3-4ed7-84d6-a3bc2a1b74fd",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 162,
+    "thickness": 11,
+    "formationDate": "2017-09-28"
+  },
+  {
+    "id": "4c298d33-a4e0-4d39-a7ab-c31720ff2aad",
+    "name": "Inquala - Tubesys",
+    "purposeId": "eddce2b4-731e-4547-bb27-76cccb4cfdb7",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 200,
+    "thickness": 8,
+    "formationDate": "2018-01-28"
+  },
+  {
+    "id": "8d174797-9d7d-4f4c-bb90-4c40812b7460",
+    "name": "Telequiet - Quarmony",
+    "purposeId": "ed3ba04a-6d03-42c9-bb99-0ba2dfd971b7",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 133,
+    "thickness": 15,
+    "formationDate": "2016-10-07"
+  },
+  {
+    "id": "54496905-8248-4825-9c02-bfcdb9439c2b",
+    "name": "Zolarity - Eternis",
+    "purposeId": "cb1851a5-8c8d-40bb-befd-f1fd7085c8ff",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 88,
+    "thickness": 10,
+    "formationDate": "2015-08-10"
+  },
+  {
+    "id": "abffce5c-7188-4cda-8553-675cf2af4a6e",
+    "name": "Imageflow - Gracker",
+    "purposeId": "eddce2b4-731e-4547-bb27-76cccb4cfdb7",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 136,
+    "thickness": 7,
+    "formationDate": "2020-01-10"
+  },
+  {
+    "id": "4292cdd5-8627-4e28-93df-a3f0f7c62948",
+    "name": "Steeltab - Zolar",
+    "purposeId": "686bd869-b8cf-4b8a-951d-290d8c1c9a15",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 90,
+    "thickness": 13,
+    "formationDate": "2018-10-31"
+  },
+  {
+    "id": "af446a63-9463-4868-a6b1-2a973478bc66",
+    "name": "Marqet - Phuel",
+    "purposeId": "a07e14f4-ae10-4fa9-bbcc-422ec5e6cd63",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 152,
+    "thickness": 8,
+    "formationDate": "2016-01-22"
+  },
+  {
+    "id": "10f63bef-a568-41fa-82aa-05894d8a0395",
+    "name": "Netplax - Quilk",
+    "purposeId": "db9d6c99-67aa-449c-bcac-81de65e6de2d",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 80,
+    "thickness": 5,
+    "formationDate": "2020-09-06"
+  },
+  {
+    "id": "514aa861-f416-46c2-b049-0bdfa7a639bd",
+    "name": "Apexia - Rooforia",
+    "purposeId": "a3a85e6a-3c8b-4a46-9f08-02de0f978b05",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 101,
+    "thickness": 7,
+    "formationDate": "2015-03-25"
+  },
+  {
+    "id": "3192268a-1b02-4cc3-93a6-b29cbd9c64c2",
+    "name": "Tetratrex - Comtest",
+    "purposeId": "ca07c6fd-9508-4e66-a061-a1b90db30aca",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 147,
+    "thickness": 5,
+    "formationDate": "2014-08-14"
+  },
+  {
+    "id": "ca11bcd0-4998-4530-9891-c077ca4fd2a7",
+    "name": "Prosely - Danja",
+    "purposeId": "7034b3b4-0537-4522-9e37-3a032f3dcb32",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 95,
+    "thickness": 7,
+    "formationDate": "2017-02-03"
+  },
+  {
+    "id": "76cc7bfa-6b77-42b8-943c-f8f569fd4a99",
+    "name": "Zytrex - Zizzle",
+    "purposeId": "78174485-b7d4-4305-a956-8e67dece76b6",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 149,
+    "thickness": 12,
+    "formationDate": "2014-11-17"
+  },
+  {
+    "id": "133873cf-167b-4a82-9944-39d5d56ad5e2",
+    "name": "Coriander - Amtas",
+    "purposeId": "cdc8f1c7-0f0a-4c21-abf7-102a9be7b428",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 81,
+    "thickness": 7,
+    "formationDate": "2019-01-09"
+  },
+  {
+    "id": "c9eedd93-a485-4feb-9f9b-8ffe16988ee4",
+    "name": "Enersave - Lunchpod",
+    "purposeId": "ad1e6ee7-b179-4772-97bd-09a8d9cfa601",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 115,
+    "thickness": 10,
+    "formationDate": "2015-02-09"
+  },
+  {
+    "id": "cb26f687-2513-4668-aaee-0573920f1f00",
+    "name": "Flyboyz - Netur",
+    "purposeId": "1fc369a7-4c30-4f5d-a7b1-34d4b1da0af0",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 66,
+    "thickness": 9,
+    "formationDate": "2015-07-19"
+  },
+  {
+    "id": "db09e1fa-1766-46d2-ac1d-bc83e3d0604c",
+    "name": "Uberlux - Quintity",
+    "purposeId": "fbac4a05-3a09-4b34-9d87-e3ee79867a3a",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 124,
+    "thickness": 9,
+    "formationDate": "2019-05-14"
+  },
+  {
+    "id": "825c8063-1365-4d8b-9199-8722cf3a29e0",
+    "name": "Sultrax - Polarax",
+    "purposeId": "77b88070-d0ce-48bc-8032-9e01de4dc95e",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 86,
+    "thickness": 13,
+    "formationDate": "2016-06-27"
+  },
+  {
+    "id": "864be5d1-b0cb-47ec-ab3c-e5bca63dc5ac",
+    "name": "Stucco - Suremax",
+    "purposeId": "78174485-b7d4-4305-a956-8e67dece76b6",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 147,
+    "thickness": 8,
+    "formationDate": "2016-03-04"
+  },
+  {
+    "id": "78195cd1-893f-4b6e-9c9d-edcdcf258c28",
+    "name": "Extro - Elemantra",
+    "purposeId": "1fc369a7-4c30-4f5d-a7b1-34d4b1da0af0",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 68,
+    "thickness": 13,
+    "formationDate": "2015-08-06"
+  },
+  {
+    "id": "6fb533ef-a668-4c4b-b1ec-d431dc80b07d",
+    "name": "Namegen - Rockabye",
+    "purposeId": "3ea0fd18-58e8-4e41-ad78-45918f4374b8",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 118,
+    "thickness": 10,
+    "formationDate": "2017-01-20"
+  },
+  {
+    "id": "78e77784-c151-4f59-bbab-68128fbc40ba",
+    "name": "Deepends - Buzzmaker",
+    "purposeId": "3ea0fd18-58e8-4e41-ad78-45918f4374b8",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 188,
+    "thickness": 13,
+    "formationDate": "2020-05-06"
+  },
+  {
+    "id": "0b1b86d4-fae0-4647-9252-0de8d1dcbc07",
+    "name": "Ecstasia - Musix",
+    "purposeId": "ed3ba04a-6d03-42c9-bb99-0ba2dfd971b7",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 136,
+    "thickness": 10,
+    "formationDate": "2019-12-10"
+  },
+  {
+    "id": "1c6fcb9a-8ad6-4b16-ba1b-39cd4c3f0b38",
+    "name": "Micronaut - Enquility",
+    "purposeId": "bdd53b9b-4e86-49c0-af66-2a36afffdb77",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 75,
+    "thickness": 12,
+    "formationDate": "2017-02-09"
+  },
+  {
+    "id": "4b5d90d5-dcf8-4248-808f-8e4257be5baa",
+    "name": "Austech - Strozen",
+    "purposeId": "147730c8-78f7-44c6-9deb-5496eb3f5ac3",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 176,
+    "thickness": 14,
+    "formationDate": "2015-04-16"
+  },
+  {
+    "id": "184cb7a4-cf34-4798-8b74-c6998fa6e523",
+    "name": "Dancity - Exerta",
+    "purposeId": "89c270dd-db6c-4227-bb7e-43c7b1408d69",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 89,
+    "thickness": 14,
+    "formationDate": "2015-09-08"
+  },
+  {
+    "id": "0b39a95c-19f8-4e15-a810-64cb8351e00e",
+    "name": "Dragbot - Zepitope",
+    "purposeId": "0fb8e4d4-ab71-4b9c-a257-992a0b8e543c",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 85,
+    "thickness": 10,
+    "formationDate": "2017-03-05"
+  },
+  {
+    "id": "020122fa-b708-43a0-a79d-76e0b2433101",
+    "name": "Zidant - Housedown",
+    "purposeId": "686bd869-b8cf-4b8a-951d-290d8c1c9a15",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 71,
+    "thickness": 10,
+    "formationDate": "2014-07-18"
+  },
+  {
+    "id": "c0765721-b554-4dc3-887d-86d4879c7846",
+    "name": "Iplax - Zaggle",
+    "purposeId": "e6b1286c-84d3-4ed7-84d6-a3bc2a1b74fd",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 59,
+    "thickness": 8,
+    "formationDate": "2019-04-11"
+  },
+  {
+    "id": "425ef609-aebf-4df8-a90a-2f8725e8aa5b",
+    "name": "Kaggle - Urbanshee",
+    "purposeId": "ed3ba04a-6d03-42c9-bb99-0ba2dfd971b7",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 112,
+    "thickness": 13,
+    "formationDate": "2020-08-28"
+  },
+  {
+    "id": "e9ec83dd-bb59-4c16-97c4-cf9501d32829",
+    "name": "Accruex - Zoinage",
+    "purposeId": "55643062-5cd6-476c-918c-d2c054a0d529",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 168,
+    "thickness": 7,
+    "formationDate": "2018-06-12"
+  },
+  {
+    "id": "b40e9054-901c-4e09-90c1-72afe73e160d",
+    "name": "Amril - Cincyr",
+    "purposeId": "a3a85e6a-3c8b-4a46-9f08-02de0f978b05",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 72,
+    "thickness": 6,
+    "formationDate": "2018-03-30"
+  },
+  {
+    "id": "b7a82a98-08b0-4c8a-a5f2-73aab607c326",
+    "name": "Zensus - Anacho",
+    "purposeId": "cdc8f1c7-0f0a-4c21-abf7-102a9be7b428",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 126,
+    "thickness": 5,
+    "formationDate": "2019-05-29"
+  },
+  {
+    "id": "bc6d3ddf-5ed7-46af-9d15-da1d3b2b5863",
+    "name": "Xyqag - Balooba",
+    "purposeId": "fbac4a05-3a09-4b34-9d87-e3ee79867a3a",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 174,
+    "thickness": 10,
+    "formationDate": "2014-03-17"
+  },
+  {
+    "id": "d2938d1b-56d5-49ff-8402-942a23afa8a9",
+    "name": "Greeker - Exoteric",
+    "purposeId": "71e93c8c-c01d-4bc2-a9bb-bbc9208844f0",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 160,
+    "thickness": 15,
+    "formationDate": "2017-07-28"
+  },
+  {
+    "id": "1c9847b7-2887-4e52-946c-ffe9a20a1f78",
+    "name": "Comveyer - Flotonic",
+    "purposeId": "1fc369a7-4c30-4f5d-a7b1-34d4b1da0af0",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 188,
+    "thickness": 9,
+    "formationDate": "2017-08-13"
+  },
+  {
+    "id": "8b8c9ea8-5e7a-46c5-be79-062ac3a23e95",
+    "name": "Xeronk - Plexia",
+    "purposeId": "e6b1286c-84d3-4ed7-84d6-a3bc2a1b74fd",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 120,
+    "thickness": 9,
+    "formationDate": "2016-01-22"
+  },
+  {
+    "id": "150ae172-803f-425c-9721-83743db8db11",
+    "name": "Zilladyne - Goko",
+    "purposeId": "77b88070-d0ce-48bc-8032-9e01de4dc95e",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 60,
+    "thickness": 5,
+    "formationDate": "2018-06-23"
+  },
+  {
+    "id": "9aea8f0a-eb6f-4384-abe7-c31d3b7babae",
+    "name": "Moreganic - Musaphics",
+    "purposeId": "fbac4a05-3a09-4b34-9d87-e3ee79867a3a",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 51,
+    "thickness": 10,
+    "formationDate": "2020-01-31"
+  },
+  {
+    "id": "a2475ade-fdd9-409f-ab74-4d90d8eb761e",
+    "name": "Ovolo - Genmom",
+    "purposeId": "55643062-5cd6-476c-918c-d2c054a0d529",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 71,
+    "thickness": 15,
+    "formationDate": "2020-01-03"
+  },
+  {
+    "id": "cfff1c91-52c6-4957-93d3-8558126b48f0",
+    "name": "Elentrix - Digial",
+    "purposeId": "78174485-b7d4-4305-a956-8e67dece76b6",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 161,
+    "thickness": 5,
+    "formationDate": "2016-12-24"
+  },
+  {
+    "id": "ec350391-a3e6-4a9c-ba1c-9ec39e7e3313",
+    "name": "Petigems - Isbol",
+    "purposeId": "2dd4bdcb-6f27-49d8-9c43-87ac27bbf0f8",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 114,
+    "thickness": 10,
+    "formationDate": "2018-12-17"
+  },
+  {
+    "id": "4978eb5e-ca44-496d-ae74-6a1eb17affc2",
+    "name": "Skyplex - Waretel",
+    "purposeId": "77b88070-d0ce-48bc-8032-9e01de4dc95e",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 182,
+    "thickness": 9,
+    "formationDate": "2015-11-18"
+  },
+  {
+    "id": "3f9b5192-9c51-4726-8753-01ec131232b8",
+    "name": "Dognosis - Slax",
+    "purposeId": "7034b3b4-0537-4522-9e37-3a032f3dcb32",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 89,
+    "thickness": 5,
+    "formationDate": "2019-12-01"
+  },
+  {
+    "id": "701f222e-5c2d-4f39-b981-0355404296af",
+    "name": "Spherix - Mobildata",
+    "purposeId": "eddce2b4-731e-4547-bb27-76cccb4cfdb7",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 153,
+    "thickness": 11,
+    "formationDate": "2015-04-17"
+  },
+  {
+    "id": "35b6135c-d541-41ca-b376-81c6c3dc1e82",
+    "name": "Atomica - Brainclip",
+    "purposeId": "0fb8e4d4-ab71-4b9c-a257-992a0b8e543c",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 191,
+    "thickness": 12,
+    "formationDate": "2017-07-01"
+  },
+  {
+    "id": "73f90953-9249-42f1-a522-0321c92f2a6d",
+    "name": "Calcu - Hydrocom",
+    "purposeId": "78174485-b7d4-4305-a956-8e67dece76b6",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 154,
+    "thickness": 15,
+    "formationDate": "2018-10-28"
+  },
+  {
+    "id": "01406503-c574-4dbe-ad9a-553b998b16cd",
+    "name": "Interloo - Zaj",
+    "purposeId": "7034b3b4-0537-4522-9e37-3a032f3dcb32",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 88,
+    "thickness": 5,
+    "formationDate": "2018-12-23"
+  },
+  {
+    "id": "f298ffcc-3d8b-4bf8-8e32-486d3dd74ded",
+    "name": "Viagreat - Waab",
+    "purposeId": "a3a85e6a-3c8b-4a46-9f08-02de0f978b05",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 175,
+    "thickness": 14,
+    "formationDate": "2015-02-23"
+  },
+  {
+    "id": "0f908d82-e4fb-4e2d-9e41-cdfcb9a3ff34",
+    "name": "Endipin - Polaria",
+    "purposeId": "e6b1286c-84d3-4ed7-84d6-a3bc2a1b74fd",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 115,
+    "thickness": 7,
+    "formationDate": "2017-07-19"
+  },
+  {
+    "id": "14a6cc9b-566b-42d9-a50d-b4c9a5cf5af4",
+    "name": "Orbean - Signity",
+    "purposeId": "3ea0fd18-58e8-4e41-ad78-45918f4374b8",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 200,
+    "thickness": 15,
+    "formationDate": "2019-04-27"
+  },
+  {
+    "id": "90b7cd8b-cb68-4231-a283-78069e832ee7",
+    "name": "Skinserve - Konnect",
+    "purposeId": "4f91650e-df7d-4159-ad08-96fa454daaef",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 90,
+    "thickness": 6,
+    "formationDate": "2016-06-25"
+  },
+  {
+    "id": "662ee7d5-b9a6-4535-8121-c0f45d2b8016",
+    "name": "Updat - Imaginart",
+    "purposeId": "6986344b-d3cd-4bcc-9e79-879d0a1526df",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 59,
+    "thickness": 7,
+    "formationDate": "2019-04-20"
+  },
+  {
+    "id": "14e978a3-59e6-436d-9333-17151cc8d333",
+    "name": "Centice - Geekular",
+    "purposeId": "db9d6c99-67aa-449c-bcac-81de65e6de2d",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 116,
+    "thickness": 5,
+    "formationDate": "2018-08-27"
+  },
+  {
+    "id": "167eb7e4-dce0-45ee-a5f3-18df914c26fc",
+    "name": "Teraprene - Slambda",
+    "purposeId": "3ea0fd18-58e8-4e41-ad78-45918f4374b8",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 191,
+    "thickness": 13,
+    "formationDate": "2018-06-18"
+  },
+  {
+    "id": "7e132205-53c7-4f1a-94bf-3dcad784de9d",
+    "name": "Geeknet - Zaphire",
+    "purposeId": "6e44e529-2aa5-4605-b9a7-28e175f0147e",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 186,
+    "thickness": 11,
+    "formationDate": "2015-03-17"
+  },
+  {
+    "id": "07b43ac2-d17d-4176-afe4-ebbd414c8856",
+    "name": "Digigen - Retrack",
+    "purposeId": "4f91650e-df7d-4159-ad08-96fa454daaef",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 94,
+    "thickness": 9,
+    "formationDate": "2014-08-19"
+  },
+  {
+    "id": "58d9d994-00cb-4934-b45c-b3e0e2a73b4f",
+    "name": "Tetak - Tellifly",
+    "purposeId": "cdc8f1c7-0f0a-4c21-abf7-102a9be7b428",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 187,
+    "thickness": 6,
+    "formationDate": "2018-11-13"
+  },
+  {
+    "id": "fea11188-0ab1-445b-af85-b889b29746f3",
+    "name": "Zilphur - Twiggery",
+    "purposeId": "ca07c6fd-9508-4e66-a061-a1b90db30aca",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 96,
+    "thickness": 7,
+    "formationDate": "2018-09-17"
+  },
+  {
+    "id": "3ce4622d-9507-43df-a4ec-bb2cd88829be",
+    "name": "Diginetic - Affluex",
+    "purposeId": "eddce2b4-731e-4547-bb27-76cccb4cfdb7",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 100,
+    "thickness": 12,
+    "formationDate": "2020-02-17"
+  },
+  {
+    "id": "66c6eb0b-3e8d-4ec2-b40d-79b3fdee4f4b",
+    "name": "Callflex - Paragonia",
+    "purposeId": "6986344b-d3cd-4bcc-9e79-879d0a1526df",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 128,
+    "thickness": 15,
+    "formationDate": "2020-01-10"
+  },
+  {
+    "id": "4e9f22d2-1c53-4961-b853-b7c301e4a822",
+    "name": "Geostele - Inrt",
+    "purposeId": "bdd53b9b-4e86-49c0-af66-2a36afffdb77",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 99,
+    "thickness": 14,
+    "formationDate": "2018-10-13"
+  },
+  {
+    "id": "701dca72-ae0f-4e92-bba3-4beeb899337a",
+    "name": "Franscene - Obones",
+    "purposeId": "a3a85e6a-3c8b-4a46-9f08-02de0f978b05",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 115,
+    "thickness": 9,
+    "formationDate": "2019-08-01"
+  },
+  {
+    "id": "8ef1b465-1f91-4ad5-afc6-0ce48e57ba54",
+    "name": "Kyaguru - Portico",
+    "purposeId": "1fc369a7-4c30-4f5d-a7b1-34d4b1da0af0",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 194,
+    "thickness": 8,
+    "formationDate": "2014-11-04"
+  },
+  {
+    "id": "b2de3ede-3b5c-460e-9bd7-989f8e1b8000",
+    "name": "Tubalum - Helixo",
+    "purposeId": "77b88070-d0ce-48bc-8032-9e01de4dc95e",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 101,
+    "thickness": 6,
+    "formationDate": "2020-06-26"
+  },
+  {
+    "id": "aee695c8-52f4-431c-9ccf-90310d0bb4d5",
+    "name": "Anocha - Isotrack",
+    "purposeId": "db9d6c99-67aa-449c-bcac-81de65e6de2d",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 130,
+    "thickness": 5,
+    "formationDate": "2018-07-07"
+  },
+  {
+    "id": "ddd77537-aa06-47db-af5a-e7fcaab45172",
+    "name": "Sloganaut - Quailcom",
+    "purposeId": "cb1851a5-8c8d-40bb-befd-f1fd7085c8ff",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 140,
+    "thickness": 8,
+    "formationDate": "2014-09-23"
+  },
+  {
+    "id": "5da0f69b-677c-48f3-8cbf-944a6172f0f4",
+    "name": "Zounds - Ezentia",
+    "purposeId": "77b88070-d0ce-48bc-8032-9e01de4dc95e",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 131,
+    "thickness": 11,
+    "formationDate": "2019-03-03"
+  },
+  {
+    "id": "1c743542-8251-48d3-920b-827a63ec3799",
+    "name": "Limage - Neocent",
+    "purposeId": "1fc369a7-4c30-4f5d-a7b1-34d4b1da0af0",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 137,
+    "thickness": 5,
+    "formationDate": "2014-12-15"
+  },
+  {
+    "id": "583435d0-b57b-4582-a387-76f7d9e1f73a",
+    "name": "Kyagoro - Songlines",
+    "purposeId": "a07e14f4-ae10-4fa9-bbcc-422ec5e6cd63",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 179,
+    "thickness": 8,
+    "formationDate": "2020-04-12"
+  },
+  {
+    "id": "2fcced6b-7728-42ce-a3e0-d354b77fb197",
+    "name": "Confrenzy - Glasstep",
+    "purposeId": "89c270dd-db6c-4227-bb7e-43c7b1408d69",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 194,
+    "thickness": 6,
+    "formationDate": "2019-08-03"
+  },
+  {
+    "id": "c9be4a15-3d81-43fc-8c06-fe5c91e3c7f9",
+    "name": "Elita - Xinware",
+    "purposeId": "cdc8f1c7-0f0a-4c21-abf7-102a9be7b428",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 98,
+    "thickness": 11,
+    "formationDate": "2019-04-20"
+  },
+  {
+    "id": "ee1155b8-f8fb-4eb1-8511-60cb62a0e0e6",
+    "name": "Kinetica - Slumberia",
+    "purposeId": "78174485-b7d4-4305-a956-8e67dece76b6",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 87,
+    "thickness": 9,
+    "formationDate": "2014-09-26"
+  },
+  {
+    "id": "1ae88430-596b-490e-9165-5d89760df49e",
+    "name": "Hinway - Corpulse",
+    "purposeId": "71e93c8c-c01d-4bc2-a9bb-bbc9208844f0",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 71,
+    "thickness": 9,
+    "formationDate": "2016-06-08"
+  },
+  {
+    "id": "07d80783-49fd-4f11-b780-c1225bea388a",
+    "name": "Multron - Trollery",
+    "purposeId": "30a2f4b6-5e39-498f-bc59-e4f6ab4784a6",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 135,
+    "thickness": 8,
+    "formationDate": "2020-03-03"
+  },
+  {
+    "id": "98410672-b90f-412b-bee0-fb7bff05af4c",
+    "name": "Ersum - Talendula",
+    "purposeId": "6986344b-d3cd-4bcc-9e79-879d0a1526df",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 100,
+    "thickness": 5,
+    "formationDate": "2018-09-30"
+  },
+  {
+    "id": "474c73aa-b704-4099-8bc3-92a9ec5d2b2d",
+    "name": "Waterbaby - Accuprint",
+    "purposeId": "a07e14f4-ae10-4fa9-bbcc-422ec5e6cd63",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 174,
+    "thickness": 9,
+    "formationDate": "2020-12-16"
+  },
+  {
+    "id": "99d88344-3d21-4b3f-bec9-7fa2baa7caec",
+    "name": "Injoy - Caxt",
+    "purposeId": "55643062-5cd6-476c-918c-d2c054a0d529",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 110,
+    "thickness": 7,
+    "formationDate": "2016-01-11"
+  },
+  {
+    "id": "4628c8ee-610b-433f-90ac-9e40d15c6738",
+    "name": "Papricut - Hawkster",
+    "purposeId": "ad1e6ee7-b179-4772-97bd-09a8d9cfa601",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 173,
+    "thickness": 5,
+    "formationDate": "2020-02-11"
+  },
+  {
+    "id": "528b8775-b48d-442d-80f0-6797b5ee0418",
+    "name": "Thredz - Supremia",
+    "purposeId": "6e44e529-2aa5-4605-b9a7-28e175f0147e",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 52,
+    "thickness": 13,
+    "formationDate": "2014-04-14"
+  },
+  {
+    "id": "66df0d1c-f76d-472f-b5cb-dc4fa97ac203",
+    "name": "Schoolio - Vurbo",
+    "purposeId": "a3a85e6a-3c8b-4a46-9f08-02de0f978b05",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 165,
+    "thickness": 9,
+    "formationDate": "2017-06-21"
+  },
+  {
+    "id": "d40ff7d8-10d1-4c32-a4de-32b8c87ee74b",
+    "name": "Datacator - Mantrix",
+    "purposeId": "7034b3b4-0537-4522-9e37-3a032f3dcb32",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 112,
+    "thickness": 15,
+    "formationDate": "2019-03-17"
+  },
+  {
+    "id": "743ca109-d771-49e4-ada7-d51415377fe9",
+    "name": "Edecine - Deminimum",
+    "purposeId": "2dd4bdcb-6f27-49d8-9c43-87ac27bbf0f8",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 146,
+    "thickness": 15,
+    "formationDate": "2016-12-20"
+  },
+  {
+    "id": "69a26770-929f-40bd-adab-29f1fc6ebe6d",
+    "name": "Comveyor - Netagy",
+    "purposeId": "0fb8e4d4-ab71-4b9c-a257-992a0b8e543c",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 113,
+    "thickness": 12,
+    "formationDate": "2016-08-25"
+  },
+  {
+    "id": "e8c2d8b5-2062-41b6-b3fc-04533e823f81",
+    "name": "Euron - Plasmos",
+    "purposeId": "fbac4a05-3a09-4b34-9d87-e3ee79867a3a",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 186,
+    "thickness": 9,
+    "formationDate": "2018-11-05"
+  },
+  {
+    "id": "4a634fa8-72be-4930-b830-87c12cbf8457",
+    "name": "Geekfarm - Escenta",
+    "purposeId": "71e93c8c-c01d-4bc2-a9bb-bbc9208844f0",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 90,
+    "thickness": 7,
+    "formationDate": "2020-02-10"
+  },
+  {
+    "id": "957b2a42-6cee-4861-a417-687c20f03e74",
+    "name": "Manglo - Grok",
+    "purposeId": "2dd4bdcb-6f27-49d8-9c43-87ac27bbf0f8",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 141,
+    "thickness": 13,
+    "formationDate": "2015-05-19"
+  },
+  {
+    "id": "9403171f-e0bc-40f9-8c15-fdf8bfc7d178",
+    "name": "Ultrimax - Zaggles",
+    "purposeId": "686bd869-b8cf-4b8a-951d-290d8c1c9a15",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 119,
+    "thickness": 8,
+    "formationDate": "2015-04-24"
+  },
+  {
+    "id": "accb3f06-b123-41bf-a945-3fd4bd721d08",
+    "name": "Isonus - Zillanet",
+    "purposeId": "6e44e529-2aa5-4605-b9a7-28e175f0147e",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 132,
+    "thickness": 11,
+    "formationDate": "2017-02-27"
+  },
+  {
+    "id": "31aea637-825f-4f78-9da2-0ebe8009a2c2",
+    "name": "Isologia - Phormula",
+    "purposeId": "a07e14f4-ae10-4fa9-bbcc-422ec5e6cd63",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 177,
+    "thickness": 13,
+    "formationDate": "2015-12-06"
+  },
+  {
+    "id": "55d782f7-b8d2-4662-83f8-a377a63ae26d",
+    "name": "Columella - Techade",
+    "purposeId": "89c270dd-db6c-4227-bb7e-43c7b1408d69",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 136,
+    "thickness": 11,
+    "formationDate": "2017-02-01"
+  },
+  {
+    "id": "44da0cd3-10b2-42e3-87de-0ee644b844a8",
+    "name": "Zogak - Zentury",
+    "purposeId": "fbac4a05-3a09-4b34-9d87-e3ee79867a3a",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 54,
+    "thickness": 7,
+    "formationDate": "2015-04-15"
+  },
+  {
+    "id": "a021076b-b0e2-43b8-a0eb-49cd91d34c31",
+    "name": "Bittor - Springbee",
+    "purposeId": "db9d6c99-67aa-449c-bcac-81de65e6de2d",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 156,
+    "thickness": 8,
+    "formationDate": "2015-10-24"
+  },
+  {
+    "id": "37980fbc-5a05-4e32-ae7a-edf66b77541c",
+    "name": "Naxdis - Bolax",
+    "purposeId": "6986344b-d3cd-4bcc-9e79-879d0a1526df",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 184,
+    "thickness": 8,
+    "formationDate": "2014-10-14"
+  },
+  {
+    "id": "758f9241-69b7-4907-9ce3-7b86f97c385b",
+    "name": "Plutorque - Nebulean",
+    "purposeId": "ed3ba04a-6d03-42c9-bb99-0ba2dfd971b7",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 164,
+    "thickness": 5,
+    "formationDate": "2017-05-27"
+  },
+  {
+    "id": "e7590cdb-d8e6-4055-8b4f-b9827d728382",
+    "name": "Plasto - Zanity",
+    "purposeId": "cb1851a5-8c8d-40bb-befd-f1fd7085c8ff",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 105,
+    "thickness": 15,
+    "formationDate": "2014-10-22"
+  },
+  {
+    "id": "f088f48e-c37c-402f-9277-032d907fa59f",
+    "name": "Quadeebo - Visualix",
+    "purposeId": "30a2f4b6-5e39-498f-bc59-e4f6ab4784a6",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 53,
+    "thickness": 10,
+    "formationDate": "2020-02-29"
+  },
+  {
+    "id": "74f50aa2-545f-4998-adde-23bc15a2a524",
+    "name": "Cowtown - Biohab",
+    "purposeId": "30a2f4b6-5e39-498f-bc59-e4f6ab4784a6",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 79,
+    "thickness": 15,
+    "formationDate": "2016-10-06"
+  },
+  {
+    "id": "94e15c49-a6b6-4479-9217-3e5b8ce5343a",
+    "name": "Magnina - Comtrak",
+    "purposeId": "bdd53b9b-4e86-49c0-af66-2a36afffdb77",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 139,
+    "thickness": 15,
+    "formationDate": "2019-10-14"
+  },
+  {
+    "id": "c2339a6c-9a91-4bf3-952b-dbfa410d3ded",
+    "name": "Organica - Zipak",
+    "purposeId": "4f91650e-df7d-4159-ad08-96fa454daaef",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 174,
+    "thickness": 11,
+    "formationDate": "2018-03-27"
+  },
+  {
+    "id": "83301146-d03b-4cfc-9feb-ff44b10036ae",
+    "name": "Ceprene - Ronbert",
+    "purposeId": "eddce2b4-731e-4547-bb27-76cccb4cfdb7",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 63,
+    "thickness": 8,
+    "formationDate": "2019-02-25"
+  },
+  {
+    "id": "04f018f8-da13-47d9-bfcf-8726c72551ce",
+    "name": "Pasturia - Isologica",
+    "purposeId": "147730c8-78f7-44c6-9deb-5496eb3f5ac3",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 183,
+    "thickness": 15,
+    "formationDate": "2020-05-25"
+  },
+  {
+    "id": "65263c01-3c4f-4281-9de3-8675703a7e9f",
+    "name": "Syntac - Bostonic",
+    "purposeId": "ad1e6ee7-b179-4772-97bd-09a8d9cfa601",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 200,
+    "thickness": 5,
+    "formationDate": "2020-03-09"
+  },
+  {
+    "id": "9d8b22fb-e544-4c40-9ed6-fb82ba6aaa83",
+    "name": "Maineland - Enersol",
+    "purposeId": "a07e14f4-ae10-4fa9-bbcc-422ec5e6cd63",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 61,
+    "thickness": 15,
+    "formationDate": "2014-02-10"
+  },
+  {
+    "id": "065f7f84-f590-46de-be0c-04db7ec547bd",
+    "name": "Recritube - Rodeomad",
+    "purposeId": "55643062-5cd6-476c-918c-d2c054a0d529",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 137,
+    "thickness": 13,
+    "formationDate": "2016-08-20"
+  },
+  {
+    "id": "2b995be2-3d95-4f37-9d34-219dbfc6ea41",
+    "name": "Andershun - Canopoly",
+    "purposeId": "7034b3b4-0537-4522-9e37-3a032f3dcb32",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 59,
+    "thickness": 5,
+    "formationDate": "2014-04-30"
+  },
+  {
+    "id": "510bfc8d-90fc-472f-aae8-489ffb0ff08e",
+    "name": "Decratex - Isopop",
+    "purposeId": "db9d6c99-67aa-449c-bcac-81de65e6de2d",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 124,
+    "thickness": 12,
+    "formationDate": "2020-11-20"
+  },
+  {
+    "id": "835f1a24-6bbc-4728-83d6-3d1666bc660b",
+    "name": "Eclipto - Idego",
+    "purposeId": "fbac4a05-3a09-4b34-9d87-e3ee79867a3a",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 84,
+    "thickness": 6,
+    "formationDate": "2020-03-19"
+  },
+  {
+    "id": "23f5d575-1f78-44f1-9a28-641a22d58b8c",
+    "name": "Luxuria - Melbacor",
+    "purposeId": "71e93c8c-c01d-4bc2-a9bb-bbc9208844f0",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 156,
+    "thickness": 13,
+    "formationDate": "2016-09-08"
+  },
+  {
+    "id": "f414ee13-8d18-46ef-9fdf-346fa98d4cff",
+    "name": "Opportech - Isologics",
+    "purposeId": "a3a85e6a-3c8b-4a46-9f08-02de0f978b05",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 104,
+    "thickness": 5,
+    "formationDate": "2016-02-25"
+  },
+  {
+    "id": "a9a6e9ce-5cc9-4c05-84b4-17c045711927",
+    "name": "Hivedom - Daisu",
+    "purposeId": "3ea0fd18-58e8-4e41-ad78-45918f4374b8",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 188,
+    "thickness": 15,
+    "formationDate": "2017-05-27"
+  },
+  {
+    "id": "b383f89b-4092-427d-88cc-e71833b84b38",
+    "name": "Verbus - Zilidium",
+    "purposeId": "147730c8-78f7-44c6-9deb-5496eb3f5ac3",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 173,
+    "thickness": 13,
+    "formationDate": "2014-07-23"
+  },
+  {
+    "id": "27d8ff63-27ed-44d0-96cc-a133dac87706",
+    "name": "Voipa - Ziore",
+    "purposeId": "7034b3b4-0537-4522-9e37-3a032f3dcb32",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 78,
+    "thickness": 15,
+    "formationDate": "2020-12-27"
+  },
+  {
+    "id": "906ab1ee-7e93-4ff3-adcf-10524912c8c5",
+    "name": "Bisba - Eclipsent",
+    "purposeId": "6986344b-d3cd-4bcc-9e79-879d0a1526df",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 117,
+    "thickness": 9,
+    "formationDate": "2019-10-04"
+  },
+  {
+    "id": "e3e7a112-d7d8-4a06-b754-73e2b99658b8",
+    "name": "Adornica - Avenetro",
+    "purposeId": "3ea0fd18-58e8-4e41-ad78-45918f4374b8",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 91,
+    "thickness": 5,
+    "formationDate": "2017-04-06"
+  },
+  {
+    "id": "6d8f073b-6596-4a8f-b2b1-6cf559e238f2",
+    "name": "Quilch - Candecor",
+    "purposeId": "4f91650e-df7d-4159-ad08-96fa454daaef",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 104,
+    "thickness": 9,
+    "formationDate": "2017-08-25"
+  },
+  {
+    "id": "6ae1408a-c11e-450d-a107-a68cde91ffa5",
+    "name": "Ovium - Vantage",
+    "purposeId": "beb7f360-5adf-40fe-8265-3e7a31a3cb2c",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 200,
+    "thickness": 15,
+    "formationDate": "2018-12-15"
+  },
+  {
+    "id": "145f2366-d8d5-48f9-89b9-66896549c7fe",
+    "name": "Cipromox - Corepan",
+    "purposeId": "6986344b-d3cd-4bcc-9e79-879d0a1526df",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 196,
+    "thickness": 10,
+    "formationDate": "2017-03-28"
+  },
+  {
+    "id": "d1645c30-ba4f-4062-9536-682816a5243a",
+    "name": "Equitax - Telepark",
+    "purposeId": "55643062-5cd6-476c-918c-d2c054a0d529",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 57,
+    "thickness": 7,
+    "formationDate": "2019-12-31"
+  },
+  {
+    "id": "e35869fa-0e04-4a29-b3ab-d3a46d5a50f9",
+    "name": "Zensor - Matrixity",
+    "purposeId": "89c270dd-db6c-4227-bb7e-43c7b1408d69",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 147,
+    "thickness": 7,
+    "formationDate": "2019-02-03"
+  },
+  {
+    "id": "e1f0c121-99f2-48bd-bf0c-92c1e277f1a6",
+    "name": "Cinaster - Namebox",
+    "purposeId": "78174485-b7d4-4305-a956-8e67dece76b6",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 184,
+    "thickness": 9,
+    "formationDate": "2019-03-13"
+  },
+  {
+    "id": "47993db5-aadb-44e7-aae8-43a658610a27",
+    "name": "Zillatide - Earwax",
+    "purposeId": "6e44e529-2aa5-4605-b9a7-28e175f0147e",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 70,
+    "thickness": 15,
+    "formationDate": "2016-12-28"
+  },
+  {
+    "id": "d8e8799e-7cf0-4957-b2d5-873c5b2a0438",
+    "name": "Boilcat - Joviold",
+    "purposeId": "55643062-5cd6-476c-918c-d2c054a0d529",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 187,
+    "thickness": 13,
+    "formationDate": "2015-09-02"
+  },
+  {
+    "id": "c1318327-4e1c-47fc-8bed-6d6d76fc4945",
+    "name": "Skybold - Otherway",
+    "purposeId": "cdc8f1c7-0f0a-4c21-abf7-102a9be7b428",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 77,
+    "thickness": 12,
+    "formationDate": "2018-04-10"
+  },
+  {
+    "id": "fc363b10-cae9-49e1-b57a-86e0ea17c750",
+    "name": "Hairport - Terrasys",
+    "purposeId": "1fc369a7-4c30-4f5d-a7b1-34d4b1da0af0",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 52,
+    "thickness": 13,
+    "formationDate": "2018-05-09"
+  },
+  {
+    "id": "d95aea8a-5aa0-42bc-9c10-530310a12b49",
+    "name": "Liquidoc - Lotron",
+    "purposeId": "beb7f360-5adf-40fe-8265-3e7a31a3cb2c",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 199,
+    "thickness": 11,
+    "formationDate": "2014-06-15"
+  },
+  {
+    "id": "0b4a1394-317e-4d6a-a5fa-414011984540",
+    "name": "Zillacom - Duflex",
+    "purposeId": "beb7f360-5adf-40fe-8265-3e7a31a3cb2c",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 195,
+    "thickness": 15,
+    "formationDate": "2018-04-22"
+  },
+  {
+    "id": "b3b3e5a8-3743-40f1-a34d-5ee823b2e197",
+    "name": "Pharmacon - Marketoid",
+    "purposeId": "71e93c8c-c01d-4bc2-a9bb-bbc9208844f0",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 171,
+    "thickness": 6,
+    "formationDate": "2015-11-03"
+  },
+  {
+    "id": "c2629b62-89c1-480d-aa25-89b41b3523e1",
+    "name": "Zidox - Cyclonica",
+    "purposeId": "eddce2b4-731e-4547-bb27-76cccb4cfdb7",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 193,
+    "thickness": 10,
+    "formationDate": "2019-03-01"
+  },
+  {
+    "id": "e034ca21-52f7-43dc-a5e0-4912fe021ac2",
+    "name": "Indexia - Digitalus",
+    "purposeId": "e6b1286c-84d3-4ed7-84d6-a3bc2a1b74fd",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 74,
+    "thickness": 13,
+    "formationDate": "2020-08-04"
+  },
+  {
+    "id": "4b3ae2f9-45c0-4a68-a2b0-9a1621a2cbad",
+    "name": "Animalia - Cuizine",
+    "purposeId": "89c270dd-db6c-4227-bb7e-43c7b1408d69",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 126,
+    "thickness": 10,
+    "formationDate": "2020-11-19"
+  },
+  {
+    "id": "bd281869-dd4c-4393-96b4-9765be38b018",
+    "name": "Futurity - Magmina",
+    "purposeId": "cb1851a5-8c8d-40bb-befd-f1fd7085c8ff",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 115,
+    "thickness": 9,
+    "formationDate": "2018-01-29"
+  },
+  {
+    "id": "adc5278f-97e4-4a93-844a-fa3cbb21610c",
+    "name": "Medcom - Memora",
+    "purposeId": "ed3ba04a-6d03-42c9-bb99-0ba2dfd971b7",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 155,
+    "thickness": 7,
+    "formationDate": "2018-12-04"
+  },
+  {
+    "id": "90658aaf-58f4-422b-a608-9ac6f1f12a60",
+    "name": "Senmei - Pyramis",
+    "purposeId": "2dd4bdcb-6f27-49d8-9c43-87ac27bbf0f8",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 126,
+    "thickness": 12,
+    "formationDate": "2018-12-24"
+  },
+  {
+    "id": "19cbf2c3-862b-4190-8430-781b907b84f0",
+    "name": "Maximind - Strezzo",
+    "purposeId": "77b88070-d0ce-48bc-8032-9e01de4dc95e",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 51,
+    "thickness": 7,
+    "formationDate": "2015-03-25"
+  },
+  {
+    "id": "c2dcc4be-dfdf-4c41-a630-bb5af21fc5e6",
+    "name": "Comvoy - Reversus",
+    "purposeId": "686bd869-b8cf-4b8a-951d-290d8c1c9a15",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 108,
+    "thickness": 8,
+    "formationDate": "2018-02-05"
+  },
+  {
+    "id": "f01c2141-8db1-4273-bb74-bb576e0f3293",
+    "name": "Bitendrex - Repetwire",
+    "purposeId": "a3a85e6a-3c8b-4a46-9f08-02de0f978b05",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 108,
+    "thickness": 12,
+    "formationDate": "2014-02-07"
+  },
+  {
+    "id": "57cb0d63-3903-4573-acb1-b2e06ed3a6c5",
+    "name": "Bugsall - Geeky",
+    "purposeId": "89c270dd-db6c-4227-bb7e-43c7b1408d69",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 80,
+    "thickness": 9,
+    "formationDate": "2014-09-08"
+  },
+  {
+    "id": "cc4c6b88-a5ad-45f9-8833-4ad9f3959a7d",
+    "name": "Unq - Arctiq",
+    "purposeId": "6986344b-d3cd-4bcc-9e79-879d0a1526df",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 131,
+    "thickness": 7,
+    "formationDate": "2020-09-09"
+  },
+  {
+    "id": "6de32567-61c2-4691-9581-4c49acdca0f3",
+    "name": "Multiflex - Savvy",
+    "purposeId": "147730c8-78f7-44c6-9deb-5496eb3f5ac3",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 175,
+    "thickness": 10,
+    "formationDate": "2015-04-22"
+  },
+  {
+    "id": "17948382-f905-43a8-a8f3-c96a0749d57b",
+    "name": "Codax - Atgen",
+    "purposeId": "ad1e6ee7-b179-4772-97bd-09a8d9cfa601",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 162,
+    "thickness": 10,
+    "formationDate": "2015-09-13"
+  },
+  {
+    "id": "024a9c75-9979-4b50-9a63-131b59ed2c8e",
+    "name": "Zilodyne - Shadease",
+    "purposeId": "0fb8e4d4-ab71-4b9c-a257-992a0b8e543c",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 114,
+    "thickness": 10,
+    "formationDate": "2020-08-15"
+  },
+  {
+    "id": "08fef356-0051-4112-b932-33a6bfef4287",
+    "name": "Cytrex - Ludak",
+    "purposeId": "beb7f360-5adf-40fe-8265-3e7a31a3cb2c",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 128,
+    "thickness": 5,
+    "formationDate": "2015-02-24"
+  },
+  {
+    "id": "1f254509-2aa8-4384-8fda-ef612d59aa10",
+    "name": "Avit - Dentrex",
+    "purposeId": "cb1851a5-8c8d-40bb-befd-f1fd7085c8ff",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 139,
+    "thickness": 11,
+    "formationDate": "2016-09-26"
+  },
+  {
+    "id": "2dd47cf4-427c-4c06-ac7c-6749f2691908",
+    "name": "Bulljuice - Rodeocean",
+    "purposeId": "1fc369a7-4c30-4f5d-a7b1-34d4b1da0af0",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 52,
+    "thickness": 14,
+    "formationDate": "2015-04-19"
+  },
+  {
+    "id": "7857b0e3-ff60-43a7-a4ca-b3d5f475d8e6",
+    "name": "Accufarm - Centuria",
+    "purposeId": "cdc8f1c7-0f0a-4c21-abf7-102a9be7b428",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 174,
+    "thickness": 13,
+    "formationDate": "2014-11-03"
+  },
+  {
+    "id": "67a3d8dc-4b65-44f5-b994-51b5f7fb3fa0",
+    "name": "Optyk - Emergent",
+    "purposeId": "ed3ba04a-6d03-42c9-bb99-0ba2dfd971b7",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 170,
+    "thickness": 5,
+    "formationDate": "2017-04-04"
+  },
+  {
+    "id": "8072a45d-3305-41d2-bcb4-1199431ab470",
+    "name": "Izzby - Illumity",
+    "purposeId": "0fb8e4d4-ab71-4b9c-a257-992a0b8e543c",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 180,
+    "thickness": 7,
+    "formationDate": "2016-10-19"
+  },
+  {
+    "id": "153c65d4-85d7-4415-80aa-09e658cce069",
+    "name": "Zytrac - Tribalog",
+    "purposeId": "0fb8e4d4-ab71-4b9c-a257-992a0b8e543c",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 187,
+    "thickness": 5,
+    "formationDate": "2016-12-13"
+  },
+  {
+    "id": "2892b573-ff0f-4389-878f-60fb61624cfe",
+    "name": "Cogentry - Lunchpad",
+    "purposeId": "89c270dd-db6c-4227-bb7e-43c7b1408d69",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 173,
+    "thickness": 6,
+    "formationDate": "2017-09-11"
+  },
+  {
+    "id": "eaf0494a-c189-461d-b4a9-42eb792c353e",
+    "name": "Uncorp - Lovepad",
+    "purposeId": "77b88070-d0ce-48bc-8032-9e01de4dc95e",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 82,
+    "thickness": 8,
+    "formationDate": "2017-07-30"
+  },
+  {
+    "id": "1bf77654-4413-449d-be21-b89bacaa4e52",
+    "name": "Cormoran - Isoternia",
+    "purposeId": "3ea0fd18-58e8-4e41-ad78-45918f4374b8",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 95,
+    "thickness": 5,
+    "formationDate": "2019-01-18"
+  },
+  {
+    "id": "08c67d08-e871-41c6-a79c-b14feb133812",
+    "name": "Squish - Protodyne",
+    "purposeId": "cb1851a5-8c8d-40bb-befd-f1fd7085c8ff",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 117,
+    "thickness": 12,
+    "formationDate": "2019-10-29"
+  },
+  {
+    "id": "19725b67-be75-4912-8c8f-0a5c64de83dc",
+    "name": "Enervate - Ecolight",
+    "purposeId": "bdd53b9b-4e86-49c0-af66-2a36afffdb77",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 63,
+    "thickness": 13,
+    "formationDate": "2014-04-17"
+  },
+  {
+    "id": "de4616f1-b053-4219-9ce1-fc3263ea96b5",
+    "name": "Parcoe - Andryx",
+    "purposeId": "bdd53b9b-4e86-49c0-af66-2a36afffdb77",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 75,
+    "thickness": 10,
+    "formationDate": "2014-09-17"
+  },
+  {
+    "id": "ab67680d-ba1a-44f5-b30f-dac6f56d4fff",
+    "name": "Roboid - Geekosis",
+    "purposeId": "a07e14f4-ae10-4fa9-bbcc-422ec5e6cd63",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 69,
+    "thickness": 15,
+    "formationDate": "2015-09-28"
+  },
+  {
+    "id": "a2fa427c-5262-40fa-9538-277091c3c7d8",
+    "name": "Exodoc - Kiggle",
+    "purposeId": "ad1e6ee7-b179-4772-97bd-09a8d9cfa601",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 128,
+    "thickness": 12,
+    "formationDate": "2016-02-23"
+  },
+  {
+    "id": "2105e7bb-a303-4766-97f6-ef1655b1aa67",
+    "name": "Essensia - Realmo",
+    "purposeId": "e6b1286c-84d3-4ed7-84d6-a3bc2a1b74fd",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 160,
+    "thickness": 6,
+    "formationDate": "2019-09-20"
+  },
+  {
+    "id": "659c4f0c-8d56-468f-ba7c-281ac410f13d",
+    "name": "Orbalix - Mitroc",
+    "purposeId": "ad1e6ee7-b179-4772-97bd-09a8d9cfa601",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 59,
+    "thickness": 6,
+    "formationDate": "2018-07-30"
+  },
+  {
+    "id": "da4bd951-6e06-4ba7-a0fe-2a1939091bab",
+    "name": "Tourmania - Snips",
+    "purposeId": "6986344b-d3cd-4bcc-9e79-879d0a1526df",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 198,
+    "thickness": 11,
+    "formationDate": "2017-10-25"
+  },
+  {
+    "id": "757c93ca-13b0-407e-b5c9-97dd5ab04866",
+    "name": "Fangold - Macronaut",
+    "purposeId": "e6b1286c-84d3-4ed7-84d6-a3bc2a1b74fd",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 102,
+    "thickness": 13,
+    "formationDate": "2017-08-05"
+  },
+  {
+    "id": "1c342286-0b5e-4e7b-951b-68c391209ed4",
+    "name": "Coash - Dyno",
+    "purposeId": "147730c8-78f7-44c6-9deb-5496eb3f5ac3",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 54,
+    "thickness": 6,
+    "formationDate": "2020-09-25"
+  },
+  {
+    "id": "dbdb3b55-57ba-4eca-91d9-51ff50606832",
+    "name": "Liquicom - Zentry",
+    "purposeId": "6986344b-d3cd-4bcc-9e79-879d0a1526df",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 131,
+    "thickness": 14,
+    "formationDate": "2019-09-07"
+  },
+  {
+    "id": "e480afac-7ea3-4e2a-b7ef-f90d0d1888da",
+    "name": "Ohmnet - Manufact",
+    "purposeId": "2dd4bdcb-6f27-49d8-9c43-87ac27bbf0f8",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 151,
+    "thickness": 10,
+    "formationDate": "2018-09-26"
+  },
+  {
+    "id": "c80ccae8-478e-44a5-aa44-e5dc35ca1324",
+    "name": "Sulfax - Voratak",
+    "purposeId": "db9d6c99-67aa-449c-bcac-81de65e6de2d",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 145,
+    "thickness": 14,
+    "formationDate": "2016-09-10"
+  },
+  {
+    "id": "1c8578ca-9f26-4d8e-9865-8f0c5fa8edf8",
+    "name": "Rockyard - Dreamia",
+    "purposeId": "0fb8e4d4-ab71-4b9c-a257-992a0b8e543c",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 116,
+    "thickness": 13,
+    "formationDate": "2017-06-11"
+  },
+  {
+    "id": "e3804c9a-6c97-489b-a064-0e5c8fe5288f",
+    "name": "Futuris - Playce",
+    "purposeId": "db9d6c99-67aa-449c-bcac-81de65e6de2d",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 56,
+    "thickness": 8,
+    "formationDate": "2019-12-17"
+  },
+  {
+    "id": "7d58edfe-28e3-41f7-ac80-7fb314dbee48",
+    "name": "Geekology - Otherside",
+    "purposeId": "e6b1286c-84d3-4ed7-84d6-a3bc2a1b74fd",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 169,
+    "thickness": 7,
+    "formationDate": "2015-07-10"
+  },
+  {
+    "id": "da5ce9eb-fbfe-4cff-84b3-096da297bc6b",
+    "name": "Insource - Qiao",
+    "purposeId": "4f91650e-df7d-4159-ad08-96fa454daaef",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 141,
+    "thickness": 9,
+    "formationDate": "2015-03-24"
+  },
+  {
+    "id": "663a1beb-5d25-4d15-91fa-ae26ee6e846b",
+    "name": "Quotezart - Portalis",
+    "purposeId": "77b88070-d0ce-48bc-8032-9e01de4dc95e",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 170,
+    "thickness": 11,
+    "formationDate": "2020-09-08"
+  },
+  {
+    "id": "8b125120-0cde-4b71-9cb0-6d9341f2ab1f",
+    "name": "Barkarama - Sustenza",
+    "purposeId": "ca07c6fd-9508-4e66-a061-a1b90db30aca",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 59,
+    "thickness": 8,
+    "formationDate": "2019-01-07"
+  },
+  {
+    "id": "36054d83-309e-44b5-a771-afbbfe2444ff",
+    "name": "Eweville - Acruex",
+    "purposeId": "71e93c8c-c01d-4bc2-a9bb-bbc9208844f0",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 86,
+    "thickness": 11,
+    "formationDate": "2019-07-23"
+  },
+  {
+    "id": "3ccb8207-8866-46ab-984a-8556cec2c37c",
+    "name": "Cognicode - Zenco",
+    "purposeId": "ad1e6ee7-b179-4772-97bd-09a8d9cfa601",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 153,
+    "thickness": 15,
+    "formationDate": "2017-08-14"
+  },
+  {
+    "id": "6eb93bb7-7b1f-42a7-ba74-51a9d2c1cb0c",
+    "name": "Niquent - Techmania",
+    "purposeId": "bdd53b9b-4e86-49c0-af66-2a36afffdb77",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 97,
+    "thickness": 10,
+    "formationDate": "2015-01-22"
+  },
+  {
+    "id": "bb3d1ba1-7630-4c37-b6ea-69b17795016d",
+    "name": "Zytrax - Xerex",
+    "purposeId": "6986344b-d3cd-4bcc-9e79-879d0a1526df",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 181,
+    "thickness": 14,
+    "formationDate": "2019-12-14"
+  },
+  {
+    "id": "c799e01e-3a8a-4565-a1de-a4150e7c963b",
+    "name": "Qualitern - Hotcakes",
+    "purposeId": "e6b1286c-84d3-4ed7-84d6-a3bc2a1b74fd",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 122,
+    "thickness": 8,
+    "formationDate": "2018-02-02"
+  },
+  {
+    "id": "12eed1c1-300b-4b2c-a61a-16271f74954b",
+    "name": "Cytrek - Conjurica",
+    "purposeId": "ad1e6ee7-b179-4772-97bd-09a8d9cfa601",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 52,
+    "thickness": 11,
+    "formationDate": "2020-11-04"
+  },
+  {
+    "id": "79309fbb-e80b-4027-b0e3-64f1b3be099b",
+    "name": "Norali - Eyeris",
+    "purposeId": "30a2f4b6-5e39-498f-bc59-e4f6ab4784a6",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 155,
+    "thickness": 10,
+    "formationDate": "2016-04-19"
+  },
+  {
+    "id": "7e76416b-99f7-4e0c-bf06-483c21d475ff",
+    "name": "Metroz - Kog",
+    "purposeId": "89c270dd-db6c-4227-bb7e-43c7b1408d69",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 95,
+    "thickness": 10,
+    "formationDate": "2015-11-10"
+  },
+  {
+    "id": "61d1e29e-add9-4267-9f13-bd219ecc7d8c",
+    "name": "Bicol - Perkle",
+    "purposeId": "cdc8f1c7-0f0a-4c21-abf7-102a9be7b428",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 95,
+    "thickness": 7,
+    "formationDate": "2018-02-03"
+  },
+  {
+    "id": "f442b9a6-a299-411d-a7a9-344f2e9aa7f2",
+    "name": "Plasmox - Chillium",
+    "purposeId": "cb1851a5-8c8d-40bb-befd-f1fd7085c8ff",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 127,
+    "thickness": 12,
+    "formationDate": "2018-01-08"
+  },
+  {
+    "id": "1f2b10af-196d-4da5-afc7-b20d4c4ab6d9",
+    "name": "Flumbo - Fiberox",
+    "purposeId": "beb7f360-5adf-40fe-8265-3e7a31a3cb2c",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 72,
+    "thickness": 11,
+    "formationDate": "2020-03-06"
+  },
+  {
+    "id": "82ed76d1-a077-4bd1-a692-e891f33d4b42",
+    "name": "Snorus - Magnafone",
+    "purposeId": "147730c8-78f7-44c6-9deb-5496eb3f5ac3",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 60,
+    "thickness": 8,
+    "formationDate": "2018-03-05"
+  },
+  {
+    "id": "fa13290b-8288-41e8-84f0-fccbb86423e2",
+    "name": "Tropoli - Nitracyr",
+    "purposeId": "6986344b-d3cd-4bcc-9e79-879d0a1526df",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 146,
+    "thickness": 15,
+    "formationDate": "2014-08-28"
+  },
+  {
+    "id": "291c01b6-4a64-4aca-96d1-8bfbcafa0b00",
+    "name": "Genmy - Quonk",
+    "purposeId": "ad1e6ee7-b179-4772-97bd-09a8d9cfa601",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 165,
+    "thickness": 14,
+    "formationDate": "2018-04-17"
+  },
+  {
+    "id": "e7ea3aff-c663-4ed2-a931-c051ce6e6701",
+    "name": "Acumentor - Noralex",
+    "purposeId": "78174485-b7d4-4305-a956-8e67dece76b6",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 82,
+    "thickness": 6,
+    "formationDate": "2019-01-17"
+  },
+  {
+    "id": "df2834ab-ce51-45a4-8ba1-4cb91b220e77",
+    "name": "Anivet - Pearlessa",
+    "purposeId": "6986344b-d3cd-4bcc-9e79-879d0a1526df",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 198,
+    "thickness": 15,
+    "formationDate": "2017-06-03"
+  },
+  {
+    "id": "dd1e291f-a22d-47ae-983d-54741c1cbcf9",
+    "name": "Koogle - Overfork",
+    "purposeId": "77b88070-d0ce-48bc-8032-9e01de4dc95e",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 56,
+    "thickness": 6,
+    "formationDate": "2019-07-02"
+  },
+  {
+    "id": "2f4e7757-011b-46ec-b111-0a8ad586406f",
+    "name": "Singavera - Harmoney",
+    "purposeId": "ad1e6ee7-b179-4772-97bd-09a8d9cfa601",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 123,
+    "thickness": 14,
+    "formationDate": "2018-08-04"
+  },
+  {
+    "id": "687ff984-9d75-45ec-b9f6-0373f2bbcac2",
+    "name": "Kenegy - Bovis",
+    "purposeId": "a07e14f4-ae10-4fa9-bbcc-422ec5e6cd63",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 148,
+    "thickness": 6,
+    "formationDate": "2019-07-20"
+  },
+  {
+    "id": "c172d371-013f-4d97-9029-7577ffb814e1",
+    "name": "Speedbolt - Pawnagra",
+    "purposeId": "0fb8e4d4-ab71-4b9c-a257-992a0b8e543c",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 79,
+    "thickness": 6,
+    "formationDate": "2020-08-17"
+  },
+  {
+    "id": "fd0efa66-e2b0-4acd-a9f3-67df65bea81a",
+    "name": "Softmicro - Exosis",
+    "purposeId": "beb7f360-5adf-40fe-8265-3e7a31a3cb2c",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 124,
+    "thickness": 9,
+    "formationDate": "2019-05-27"
+  },
+  {
+    "id": "81956614-93ae-4702-b5fe-794de469e546",
+    "name": "Malathion - Sarasonic",
+    "purposeId": "eddce2b4-731e-4547-bb27-76cccb4cfdb7",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 75,
+    "thickness": 10,
+    "formationDate": "2015-03-01"
+  },
+  {
+    "id": "68523a7e-f70b-41df-8435-4b8c169d5b9b",
+    "name": "Zosis - Comtours",
+    "purposeId": "ed3ba04a-6d03-42c9-bb99-0ba2dfd971b7",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 185,
+    "thickness": 11,
+    "formationDate": "2014-12-16"
+  },
+  {
+    "id": "064144fe-fa53-40b0-99a5-e07ad5f707ab",
+    "name": "Overplex - Snowpoke",
+    "purposeId": "bdd53b9b-4e86-49c0-af66-2a36afffdb77",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 75,
+    "thickness": 15,
+    "formationDate": "2015-11-21"
+  },
+  {
+    "id": "d54b08a4-389b-4bcb-9b32-e09d635e31ed",
+    "name": "Veraq - Realysis",
+    "purposeId": "30a2f4b6-5e39-498f-bc59-e4f6ab4784a6",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 144,
+    "thickness": 15,
+    "formationDate": "2019-01-11"
+  },
+  {
+    "id": "627d827f-db19-41c9-8389-0e956d807200",
+    "name": "Letpro - Obliq",
+    "purposeId": "0fb8e4d4-ab71-4b9c-a257-992a0b8e543c",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 70,
+    "thickness": 14,
+    "formationDate": "2017-11-26"
+  },
+  {
+    "id": "6fc8bd0e-5f0c-4101-9cc4-e41b0f82b469",
+    "name": "Comtour - Rodeology",
+    "purposeId": "ed3ba04a-6d03-42c9-bb99-0ba2dfd971b7",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 99,
+    "thickness": 8,
+    "formationDate": "2015-11-30"
+  },
+  {
+    "id": "d4aa1b71-ee29-41ce-a68c-b5938858539c",
+    "name": "Sunclipse - Ecrater",
+    "purposeId": "89c270dd-db6c-4227-bb7e-43c7b1408d69",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 182,
+    "thickness": 11,
+    "formationDate": "2017-08-12"
+  },
+  {
+    "id": "55a93267-8d7e-487e-af74-ffa27130d698",
+    "name": "Circum - Insuresys",
+    "purposeId": "7034b3b4-0537-4522-9e37-3a032f3dcb32",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 119,
+    "thickness": 15,
+    "formationDate": "2019-07-16"
+  },
+  {
+    "id": "986c4920-46b5-4c85-b08b-4d9f9a7c0ced",
+    "name": "Tingles - Inear",
+    "purposeId": "beb7f360-5adf-40fe-8265-3e7a31a3cb2c",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 132,
+    "thickness": 14,
+    "formationDate": "2018-09-26"
+  },
+  {
+    "id": "3533d15d-faf7-413b-8d57-1c9c43a769c1",
+    "name": "Uplinx - Ronelon",
+    "purposeId": "fbac4a05-3a09-4b34-9d87-e3ee79867a3a",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 81,
+    "thickness": 13,
+    "formationDate": "2014-05-08"
+  },
+  {
+    "id": "2f3b5899-2539-4451-b03c-df0fffbaa061",
+    "name": "Farmex - Gluid",
+    "purposeId": "71e93c8c-c01d-4bc2-a9bb-bbc9208844f0",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 170,
+    "thickness": 13,
+    "formationDate": "2017-01-24"
+  },
+  {
+    "id": "d55c8c1a-cb63-4a17-a3e8-30d7374f057a",
+    "name": "Datagen - Enerforce",
+    "purposeId": "2dd4bdcb-6f27-49d8-9c43-87ac27bbf0f8",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 81,
+    "thickness": 14,
+    "formationDate": "2016-01-04"
+  },
+  {
+    "id": "f545a0e8-17ca-45f5-b8ae-7fcb374c8647",
+    "name": "Lexicondo - Entogrok",
+    "purposeId": "6e44e529-2aa5-4605-b9a7-28e175f0147e",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 197,
+    "thickness": 5,
+    "formationDate": "2017-04-02"
+  },
+  {
+    "id": "4af2065c-daa0-4651-bf4e-06487afebbdd",
+    "name": "Terascape - Motovate",
+    "purposeId": "55643062-5cd6-476c-918c-d2c054a0d529",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 123,
+    "thickness": 11,
+    "formationDate": "2015-01-16"
+  },
+  {
+    "id": "9956e297-a33a-4a91-b55b-d76a01c36c5c",
+    "name": "Furnafix - Xelegyl",
+    "purposeId": "6e44e529-2aa5-4605-b9a7-28e175f0147e",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 84,
+    "thickness": 5,
+    "formationDate": "2016-12-08"
+  },
+  {
+    "id": "11ceeffa-488d-4f4c-9e10-153f32cb5245",
+    "name": "Xiix - Netropic",
+    "purposeId": "71e93c8c-c01d-4bc2-a9bb-bbc9208844f0",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 69,
+    "thickness": 5,
+    "formationDate": "2015-09-21"
+  },
+  {
+    "id": "2c95a44a-9e01-4e6d-b14d-49683db194c2",
+    "name": "Oronoko - Zolavo",
+    "purposeId": "ed3ba04a-6d03-42c9-bb99-0ba2dfd971b7",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 74,
+    "thickness": 5,
+    "formationDate": "2016-02-06"
+  },
+  {
+    "id": "f07e3459-6972-4178-aa60-5f4b0f56e785",
+    "name": "Silodyne - Accidency",
+    "purposeId": "71e93c8c-c01d-4bc2-a9bb-bbc9208844f0",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 129,
+    "thickness": 14,
+    "formationDate": "2016-06-11"
+  },
+  {
+    "id": "9c8a2a59-64e1-4794-a535-b8eaf6294ca8",
+    "name": "Geekol - Cubix",
+    "purposeId": "6986344b-d3cd-4bcc-9e79-879d0a1526df",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 73,
+    "thickness": 14,
+    "formationDate": "2019-08-02"
+  },
+  {
+    "id": "736b2c2f-b065-4a25-96d0-808f829786f4",
+    "name": "Equicom - Buzzopia",
+    "purposeId": "7034b3b4-0537-4522-9e37-3a032f3dcb32",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 149,
+    "thickness": 11,
+    "formationDate": "2018-11-23"
+  },
+  {
+    "id": "6e75c285-cd35-4d28-a706-6e4797da2be7",
+    "name": "Orbixtar - Vortexaco",
+    "purposeId": "0fb8e4d4-ab71-4b9c-a257-992a0b8e543c",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 168,
+    "thickness": 5,
+    "formationDate": "2019-09-09"
+  },
+  {
+    "id": "3f48409e-1062-4c22-aa69-9663871be758",
+    "name": "Ramjob - Gushkool",
+    "purposeId": "0fb8e4d4-ab71-4b9c-a257-992a0b8e543c",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 177,
+    "thickness": 15,
+    "formationDate": "2017-09-24"
+  },
+  {
+    "id": "1a1b313f-a8c7-4f86-b58c-95207278b1a8",
+    "name": "Biotica - Interodeo",
+    "purposeId": "eddce2b4-731e-4547-bb27-76cccb4cfdb7",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 94,
+    "thickness": 6,
+    "formationDate": "2019-02-27"
+  },
+  {
+    "id": "e1878325-9237-41c4-bd7a-7c5de59b6c68",
+    "name": "Exovent - Uniworld",
+    "purposeId": "7034b3b4-0537-4522-9e37-3a032f3dcb32",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 53,
+    "thickness": 15,
+    "formationDate": "2016-06-03"
+  },
+  {
+    "id": "e6f1204d-56e3-4f63-bc30-8b755f6852ba",
+    "name": "Entropix - Sonique",
+    "purposeId": "78174485-b7d4-4305-a956-8e67dece76b6",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 190,
+    "thickness": 5,
+    "formationDate": "2017-04-22"
+  },
+  {
+    "id": "3555d606-c5d8-4db5-acc3-f6839d6de653",
+    "name": "Earthplex - Sportan",
+    "purposeId": "ca07c6fd-9508-4e66-a061-a1b90db30aca",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 174,
+    "thickness": 15,
+    "formationDate": "2018-11-05"
+  },
+  {
+    "id": "e43e38d7-0d9a-4f99-8d34-88e93bf8036f",
+    "name": "Exiand - Momentia",
+    "purposeId": "ad1e6ee7-b179-4772-97bd-09a8d9cfa601",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 122,
+    "thickness": 14,
+    "formationDate": "2016-12-14"
+  },
+  {
+    "id": "61cf091f-1633-4299-9e41-d70f188ce155",
+    "name": "Geekmosis - Viocular",
+    "purposeId": "7034b3b4-0537-4522-9e37-3a032f3dcb32",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 165,
+    "thickness": 8,
+    "formationDate": "2015-03-17"
+  },
+  {
+    "id": "f2a8049e-8722-4693-a85f-ad5df2c5c5db",
+    "name": "Apex - Oceanica",
+    "purposeId": "beb7f360-5adf-40fe-8265-3e7a31a3cb2c",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 104,
+    "thickness": 5,
+    "formationDate": "2017-07-25"
+  },
+  {
+    "id": "321302ff-e828-4a62-8902-4a1bb2a45803",
+    "name": "Zolarex - Olympix",
+    "purposeId": "db9d6c99-67aa-449c-bcac-81de65e6de2d",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 163,
+    "thickness": 12,
+    "formationDate": "2014-06-29"
+  },
+  {
+    "id": "f56a4313-33c5-4605-8420-9f9f0f40b29a",
+    "name": "Eplosion - Kegular",
+    "purposeId": "77b88070-d0ce-48bc-8032-9e01de4dc95e",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 151,
+    "thickness": 11,
+    "formationDate": "2015-02-19"
+  },
+  {
+    "id": "dfb5b4b1-5808-49df-ab7f-0b8d2cc1b440",
+    "name": "Valpreal - Unisure",
+    "purposeId": "a07e14f4-ae10-4fa9-bbcc-422ec5e6cd63",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 150,
+    "thickness": 7,
+    "formationDate": "2015-03-12"
+  },
+  {
+    "id": "715af2b2-2e0c-4b4f-8928-d9edccc7f462",
+    "name": "Genesynk - Quonata",
+    "purposeId": "77b88070-d0ce-48bc-8032-9e01de4dc95e",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 186,
+    "thickness": 14,
+    "formationDate": "2018-09-27"
+  },
+  {
+    "id": "cb4a793f-8e40-4702-8e4e-d0ede7f2a14b",
+    "name": "Immunics - Menbrain",
+    "purposeId": "e6b1286c-84d3-4ed7-84d6-a3bc2a1b74fd",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 134,
+    "thickness": 15,
+    "formationDate": "2017-09-14"
+  },
+  {
+    "id": "13721b79-b0ff-406d-9cd9-a7247b3e18bc",
+    "name": "Delphide - Geekus",
+    "purposeId": "cb1851a5-8c8d-40bb-befd-f1fd7085c8ff",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 163,
+    "thickness": 15,
+    "formationDate": "2018-06-27"
+  },
+  {
+    "id": "8d666fae-c2fe-4c6d-bcd7-121c393c99fa",
+    "name": "Orbin - Concility",
+    "purposeId": "ca07c6fd-9508-4e66-a061-a1b90db30aca",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 142,
+    "thickness": 15,
+    "formationDate": "2016-07-29"
+  },
+  {
+    "id": "609277da-fcdf-4de0-8efd-a798e784e484",
+    "name": "Icology - Intrawear",
+    "purposeId": "89c270dd-db6c-4227-bb7e-43c7b1408d69",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 171,
+    "thickness": 7,
+    "formationDate": "2016-09-29"
+  },
+  {
+    "id": "78db3738-98ed-4620-8451-4ac5abfea6ce",
+    "name": "Rodemco - Uxmox",
+    "purposeId": "1fc369a7-4c30-4f5d-a7b1-34d4b1da0af0",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 115,
+    "thickness": 12,
+    "formationDate": "2017-11-16"
+  },
+  {
+    "id": "56f7bb9c-13fb-4d90-84ec-ed535f068339",
+    "name": "Cosmetex - Acium",
+    "purposeId": "0fb8e4d4-ab71-4b9c-a257-992a0b8e543c",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 163,
+    "thickness": 7,
+    "formationDate": "2014-08-15"
+  },
+  {
+    "id": "93c36e26-f037-4602-a59d-022dba52090d",
+    "name": "Cedward - Quantalia",
+    "purposeId": "ad1e6ee7-b179-4772-97bd-09a8d9cfa601",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 102,
+    "thickness": 14,
+    "formationDate": "2020-09-23"
+  },
+  {
+    "id": "57a58531-146d-4a2a-9188-bbb0fdbc932d",
+    "name": "Inventure - Zenolux",
+    "purposeId": "89c270dd-db6c-4227-bb7e-43c7b1408d69",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 130,
+    "thickness": 13,
+    "formationDate": "2018-08-08"
+  },
+  {
+    "id": "0d2cf416-7e93-437c-8536-325d3f73a73d",
+    "name": "Bluegrain - Idetica",
+    "purposeId": "cdc8f1c7-0f0a-4c21-abf7-102a9be7b428",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 163,
+    "thickness": 9,
+    "formationDate": "2020-06-07"
+  },
+  {
+    "id": "c61e7b11-48f6-4523-ab97-925e443fdc7e",
+    "name": "Wazzu - Zilencio",
+    "purposeId": "cdc8f1c7-0f0a-4c21-abf7-102a9be7b428",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 70,
+    "thickness": 10,
+    "formationDate": "2015-03-23"
+  },
+  {
+    "id": "7bfd344f-abb1-4c85-a644-ac84c3c07d2f",
+    "name": "Bezal - Twiist",
+    "purposeId": "6986344b-d3cd-4bcc-9e79-879d0a1526df",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 53,
+    "thickness": 6,
+    "formationDate": "2014-12-29"
+  },
+  {
+    "id": "861d1f8c-3eaf-4afd-90d0-b5dd7f0e6c51",
+    "name": "Opticon - Mazuda",
+    "purposeId": "30a2f4b6-5e39-498f-bc59-e4f6ab4784a6",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 177,
+    "thickness": 8,
+    "formationDate": "2019-12-05"
+  },
+  {
+    "id": "b85f746f-51e9-4b79-a9cd-62c7753f6e28",
+    "name": "Incubus - Aquafire",
+    "purposeId": "1fc369a7-4c30-4f5d-a7b1-34d4b1da0af0",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 135,
+    "thickness": 8,
+    "formationDate": "2020-02-26"
+  },
+  {
+    "id": "b187a94b-1102-4b0e-a908-29e2308414e3",
+    "name": "Aquasseur - Kneedles",
+    "purposeId": "cb1851a5-8c8d-40bb-befd-f1fd7085c8ff",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 102,
+    "thickness": 8,
+    "formationDate": "2015-02-24"
+  },
+  {
+    "id": "83a1c1ba-a77e-40dc-ab3d-288d0a955be1",
+    "name": "Spacewax - Tsunamia",
+    "purposeId": "89c270dd-db6c-4227-bb7e-43c7b1408d69",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 160,
+    "thickness": 11,
+    "formationDate": "2015-10-04"
+  },
+  {
+    "id": "ff51c419-5263-4274-924f-10a953d29e9a",
+    "name": "Digiprint - Zeam",
+    "purposeId": "ca07c6fd-9508-4e66-a061-a1b90db30aca",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 183,
+    "thickness": 8,
+    "formationDate": "2014-08-02"
+  },
+  {
+    "id": "d2c73195-a867-4854-9005-4f6757e7dfcf",
+    "name": "Fuelworks - Viagrand",
+    "purposeId": "cdc8f1c7-0f0a-4c21-abf7-102a9be7b428",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 157,
+    "thickness": 10,
+    "formationDate": "2014-09-20"
+  },
+  {
+    "id": "dd92bc64-0ed0-4534-b39b-b6df06a65a5f",
+    "name": "Shepard - Lingoage",
+    "purposeId": "a3a85e6a-3c8b-4a46-9f08-02de0f978b05",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 142,
+    "thickness": 10,
+    "formationDate": "2017-09-16"
+  },
+  {
+    "id": "e3a7ee90-c239-44fb-8e7f-f0f71b47a65f",
+    "name": "Trasola - Nipaz",
+    "purposeId": "686bd869-b8cf-4b8a-951d-290d8c1c9a15",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 184,
+    "thickness": 12,
+    "formationDate": "2018-09-21"
+  },
+  {
+    "id": "18a68b63-a83a-4ed3-a3d9-57b83287729a",
+    "name": "Acrodance - Neurocell",
+    "purposeId": "fbac4a05-3a09-4b34-9d87-e3ee79867a3a",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 115,
+    "thickness": 9,
+    "formationDate": "2018-06-26"
+  },
+  {
+    "id": "9f355493-8608-46f3-b755-0fb4f23192a8",
+    "name": "Comcubine - Zork",
+    "purposeId": "89c270dd-db6c-4227-bb7e-43c7b1408d69",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 61,
+    "thickness": 7,
+    "formationDate": "2019-10-25"
+  },
+  {
+    "id": "1545fdea-7c30-4fe8-ba04-2f70414daba6",
+    "name": "Keeg - Farmage",
+    "purposeId": "ed3ba04a-6d03-42c9-bb99-0ba2dfd971b7",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 192,
+    "thickness": 11,
+    "formationDate": "2014-06-28"
+  },
+  {
+    "id": "84f92102-8760-4a36-af1a-24865d5b4381",
+    "name": "Orbaxter - Enomen",
+    "purposeId": "686bd869-b8cf-4b8a-951d-290d8c1c9a15",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 132,
+    "thickness": 10,
+    "formationDate": "2016-08-20"
+  },
+  {
+    "id": "abb7da83-c3f2-4dfc-b659-e8a45f581a18",
+    "name": "Toyletry - Ontality",
+    "purposeId": "eddce2b4-731e-4547-bb27-76cccb4cfdb7",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 69,
+    "thickness": 11,
+    "formationDate": "2017-09-21"
+  },
+  {
+    "id": "23a69160-8e3e-4b50-85fb-44a0e3fd1878",
+    "name": "Aquasure - Kozgene",
+    "purposeId": "0fb8e4d4-ab71-4b9c-a257-992a0b8e543c",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 194,
+    "thickness": 10,
+    "formationDate": "2016-10-31"
+  },
+  {
+    "id": "ee226a64-507c-4bf8-be1a-1d609462c4e2",
+    "name": "Earbang - Koffee",
+    "purposeId": "bdd53b9b-4e86-49c0-af66-2a36afffdb77",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 80,
+    "thickness": 5,
+    "formationDate": "2019-09-24"
+  },
+  {
+    "id": "ae6fbc16-06d1-4f1e-9db4-aee4dd7f7a0b",
+    "name": "Terragen - Idealis",
+    "purposeId": "bdd53b9b-4e86-49c0-af66-2a36afffdb77",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 193,
+    "thickness": 7,
+    "formationDate": "2017-09-30"
+  },
+  {
+    "id": "01cb8abe-61f5-4f47-a7ab-db64c191e03f",
+    "name": "Stelaecor - Satiance",
+    "purposeId": "fbac4a05-3a09-4b34-9d87-e3ee79867a3a",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 63,
+    "thickness": 10,
+    "formationDate": "2016-07-08"
+  },
+  {
+    "id": "72e3e5e4-13f3-469e-aa56-27204de30d0f",
+    "name": "Fishland - Chorizon",
+    "purposeId": "a07e14f4-ae10-4fa9-bbcc-422ec5e6cd63",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 135,
+    "thickness": 7,
+    "formationDate": "2020-03-27"
+  },
+  {
+    "id": "4e262c68-e858-4727-b683-f838784871d0",
+    "name": "Progenex - Splinx",
+    "purposeId": "686bd869-b8cf-4b8a-951d-290d8c1c9a15",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 159,
+    "thickness": 9,
+    "formationDate": "2017-07-21"
+  },
+  {
+    "id": "c313f8b0-6ea1-44d9-8168-9a8e90ea19bb",
+    "name": "Zentility - Assistia",
+    "purposeId": "77b88070-d0ce-48bc-8032-9e01de4dc95e",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 56,
+    "thickness": 8,
+    "formationDate": "2015-08-08"
+  },
+  {
+    "id": "37c4492f-2f8a-453e-bf48-44da53e80f8c",
+    "name": "Gonkle - Nikuda",
+    "purposeId": "eddce2b4-731e-4547-bb27-76cccb4cfdb7",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 90,
+    "thickness": 6,
+    "formationDate": "2016-04-16"
+  },
+  {
+    "id": "bb79b5e3-6094-406d-b4b3-326af5f033f3",
+    "name": "Xurban - Exozent",
+    "purposeId": "6e44e529-2aa5-4605-b9a7-28e175f0147e",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 176,
+    "thickness": 11,
+    "formationDate": "2018-08-05"
+  },
+  {
+    "id": "3184d94b-a07a-4351-9aa2-ef82c909a1df",
+    "name": "Accel - Solaren",
+    "purposeId": "ed3ba04a-6d03-42c9-bb99-0ba2dfd971b7",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 89,
+    "thickness": 9,
+    "formationDate": "2015-04-16"
+  },
+  {
+    "id": "b8b0990e-3d0d-4c2c-953a-5e6a126e90a8",
+    "name": "Insectus - Velos",
+    "purposeId": "147730c8-78f7-44c6-9deb-5496eb3f5ac3",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 75,
+    "thickness": 11,
+    "formationDate": "2016-06-03"
+  },
+  {
+    "id": "a5938c8e-a0f2-4fcf-ac89-b2cf86074db2",
+    "name": "Zboo - Vixo",
+    "purposeId": "3ea0fd18-58e8-4e41-ad78-45918f4374b8",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 97,
+    "thickness": 10,
+    "formationDate": "2015-12-26"
+  },
+  {
+    "id": "7016de02-4218-41c8-9752-47439b9042c6",
+    "name": "Amtap - Uni",
+    "purposeId": "e6b1286c-84d3-4ed7-84d6-a3bc2a1b74fd",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 88,
+    "thickness": 13,
+    "formationDate": "2018-05-24"
+  },
+  {
+    "id": "64102d37-83d3-40d9-943f-c6e7a44b2411",
+    "name": "Vicon - Straloy",
+    "purposeId": "78174485-b7d4-4305-a956-8e67dece76b6",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 86,
+    "thickness": 12,
+    "formationDate": "2016-12-07"
+  },
+  {
+    "id": "384a6e9a-0057-4335-9848-771aab875811",
+    "name": "Maxemia - Scentric",
+    "purposeId": "2dd4bdcb-6f27-49d8-9c43-87ac27bbf0f8",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 133,
+    "thickness": 9,
+    "formationDate": "2017-11-16"
+  },
+  {
+    "id": "c112821f-be95-42f7-907c-72ab12252993",
+    "name": "Frosnex - Comtrail",
+    "purposeId": "686bd869-b8cf-4b8a-951d-290d8c1c9a15",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 63,
+    "thickness": 9,
+    "formationDate": "2016-02-14"
+  },
+  {
+    "id": "e49d6e20-3e38-4dbd-9ea6-e6a520246158",
+    "name": "Velity - Mangelica",
+    "purposeId": "a3a85e6a-3c8b-4a46-9f08-02de0f978b05",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 91,
+    "thickness": 5,
+    "formationDate": "2018-06-29"
+  },
+  {
+    "id": "f1c6f3a5-7e53-4072-9f5c-ab3b338b96e8",
+    "name": "Empirica - Billmed",
+    "purposeId": "cb1851a5-8c8d-40bb-befd-f1fd7085c8ff",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 58,
+    "thickness": 15,
+    "formationDate": "2020-12-05"
+  },
+  {
+    "id": "b580693c-b3ec-4bb1-86c4-f3ebc68ee9b7",
+    "name": "Frolix - Eyewax",
+    "purposeId": "e6b1286c-84d3-4ed7-84d6-a3bc2a1b74fd",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 180,
+    "thickness": 12,
+    "formationDate": "2018-10-05"
+  },
+  {
+    "id": "ff82c63c-91c2-4d7f-ba74-88df19b701e5",
+    "name": "Geoform - Equitox",
+    "purposeId": "a07e14f4-ae10-4fa9-bbcc-422ec5e6cd63",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 104,
+    "thickness": 13,
+    "formationDate": "2016-11-18"
+  },
+  {
+    "id": "6d083e5c-8e54-4eb8-9559-219e1c0fbee2",
+    "name": "Pyramax - Isosure",
+    "purposeId": "a07e14f4-ae10-4fa9-bbcc-422ec5e6cd63",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 107,
+    "thickness": 5,
+    "formationDate": "2020-05-11"
+  },
+  {
+    "id": "a34616bf-9c58-4b6d-92bb-652dda16ce18",
+    "name": "Talkalot - Exoswitch",
+    "purposeId": "bdd53b9b-4e86-49c0-af66-2a36afffdb77",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 74,
+    "thickness": 13,
+    "formationDate": "2018-10-25"
+  },
+  {
+    "id": "7eeac4ba-5c61-4562-8a76-ddf60a8d40e2",
+    "name": "Pathways - Tripsch",
+    "purposeId": "686bd869-b8cf-4b8a-951d-290d8c1c9a15",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 193,
+    "thickness": 12,
+    "formationDate": "2018-12-05"
+  },
+  {
+    "id": "a8efb8be-ac0b-4446-9042-34816c23878c",
+    "name": "Combogene - Translink",
+    "purposeId": "ed3ba04a-6d03-42c9-bb99-0ba2dfd971b7",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 141,
+    "thickness": 11,
+    "formationDate": "2017-05-23"
+  },
+  {
+    "id": "b89be523-c7cc-415b-9220-eb646fda854d",
+    "name": "Cosmosis - Globoil",
+    "purposeId": "cb1851a5-8c8d-40bb-befd-f1fd7085c8ff",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 174,
+    "thickness": 5,
+    "formationDate": "2014-06-25"
+  },
+  {
+    "id": "d0db6cff-2cc6-46f2-be4c-4f8f38b92e54",
+    "name": "Lumbrex - Applideck",
+    "purposeId": "71e93c8c-c01d-4bc2-a9bb-bbc9208844f0",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 131,
+    "thickness": 8,
+    "formationDate": "2015-05-04"
+  },
+  {
+    "id": "66b9c764-4e61-47d9-b7df-6db60f9870a5",
+    "name": "Biflex - Moltonic",
+    "purposeId": "71e93c8c-c01d-4bc2-a9bb-bbc9208844f0",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 148,
+    "thickness": 7,
+    "formationDate": "2014-01-23"
+  },
+  {
+    "id": "30845b67-d3c4-4ebd-89a6-210f50bf925d",
+    "name": "Zialactic - Grainspot",
+    "purposeId": "a3a85e6a-3c8b-4a46-9f08-02de0f978b05",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 105,
+    "thickness": 14,
+    "formationDate": "2018-09-07"
+  },
+  {
+    "id": "783af323-2249-4b86-a79e-df3adda317be",
+    "name": "Besto - Golistic",
+    "purposeId": "ed3ba04a-6d03-42c9-bb99-0ba2dfd971b7",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 99,
+    "thickness": 14,
+    "formationDate": "2016-09-21"
+  },
+  {
+    "id": "17e85fe3-db02-4202-891f-08aa5fca4911",
+    "name": "Firewax - Digigene",
+    "purposeId": "db9d6c99-67aa-449c-bcac-81de65e6de2d",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 93,
+    "thickness": 12,
+    "formationDate": "2017-06-01"
+  },
+  {
+    "id": "de06ef08-39fe-4934-a0a0-e9d2b5bb1ce1",
+    "name": "Emtrak - Insuron",
+    "purposeId": "30a2f4b6-5e39-498f-bc59-e4f6ab4784a6",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 161,
+    "thickness": 7,
+    "formationDate": "2018-09-16"
+  },
+  {
+    "id": "e7982b90-8b72-4b0a-8355-bc893019386e",
+    "name": "Nurplex - Omatom",
+    "purposeId": "71e93c8c-c01d-4bc2-a9bb-bbc9208844f0",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 144,
+    "thickness": 10,
+    "formationDate": "2016-10-12"
+  },
+  {
+    "id": "727fc0ce-8215-4189-8efb-e5406711930e",
+    "name": "Darwinium - Qimonk",
+    "purposeId": "7034b3b4-0537-4522-9e37-3a032f3dcb32",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 147,
+    "thickness": 5,
+    "formationDate": "2020-07-04"
+  },
+  {
+    "id": "9e56254d-1fde-4494-aeac-64b3c8254936",
+    "name": "Earthpure - Junipoor",
+    "purposeId": "cdc8f1c7-0f0a-4c21-abf7-102a9be7b428",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 82,
+    "thickness": 10,
+    "formationDate": "2019-10-22"
+  },
+  {
+    "id": "2ce5cf0c-1aca-4c7d-a67b-9ab3a8e7f731",
+    "name": "Xixan - Isoplex",
+    "purposeId": "4f91650e-df7d-4159-ad08-96fa454daaef",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 119,
+    "thickness": 10,
+    "formationDate": "2014-07-04"
+  },
+  {
+    "id": "dc16094d-be10-4c4c-b58f-f605e0495604",
+    "name": "Furnitech - Gology",
+    "purposeId": "78174485-b7d4-4305-a956-8e67dece76b6",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 157,
+    "thickness": 13,
+    "formationDate": "2014-09-02"
+  },
+  {
+    "id": "89949c93-743c-49db-b151-6b6e93d8b47d",
+    "name": "Ultrasure - Eplode",
+    "purposeId": "2dd4bdcb-6f27-49d8-9c43-87ac27bbf0f8",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 68,
+    "thickness": 13,
+    "formationDate": "2017-12-20"
+  },
+  {
+    "id": "47047edc-4a01-427a-be22-e7483ff53c4a",
+    "name": "Krog - Poochies",
+    "purposeId": "6e44e529-2aa5-4605-b9a7-28e175f0147e",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 171,
+    "thickness": 8,
+    "formationDate": "2017-10-31"
+  },
+  {
+    "id": "a2f7cd50-a999-4d61-894c-70d6054fd99a",
+    "name": "Proxsoft - Aquazure",
+    "purposeId": "89c270dd-db6c-4227-bb7e-43c7b1408d69",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 141,
+    "thickness": 7,
+    "formationDate": "2019-06-05"
+  },
+  {
+    "id": "d8923248-b2ae-4e98-bbc4-fc35e5b3baf0",
+    "name": "Utarian - Bluplanet",
+    "purposeId": "30a2f4b6-5e39-498f-bc59-e4f6ab4784a6",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 102,
+    "thickness": 6,
+    "formationDate": "2014-11-13"
+  },
+  {
+    "id": "e069491c-d025-4295-bba6-58a61185ff48",
+    "name": "Cujo - Pigzart",
+    "purposeId": "7034b3b4-0537-4522-9e37-3a032f3dcb32",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 58,
+    "thickness": 9,
+    "formationDate": "2015-08-04"
+  },
+  {
+    "id": "bbb4fb38-080d-4676-a076-e76b6396d1d5",
+    "name": "Xsports - Combogen",
+    "purposeId": "e6b1286c-84d3-4ed7-84d6-a3bc2a1b74fd",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 51,
+    "thickness": 6,
+    "formationDate": "2018-06-01"
+  },
+  {
+    "id": "760a498d-7477-43cd-927a-4c863076e98f",
+    "name": "Entality - Anixang",
+    "purposeId": "ad1e6ee7-b179-4772-97bd-09a8d9cfa601",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 73,
+    "thickness": 12,
+    "formationDate": "2018-04-17"
+  },
+  {
+    "id": "0c373e80-9cbd-4485-93c7-cf716f02f5e0",
+    "name": "Volax - Signidyne",
+    "purposeId": "4f91650e-df7d-4159-ad08-96fa454daaef",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 120,
+    "thickness": 13,
+    "formationDate": "2018-01-10"
+  },
+  {
+    "id": "10c71904-3391-42a0-aa25-c384c5b14d67",
+    "name": "Viasia - Honotron",
+    "purposeId": "3ea0fd18-58e8-4e41-ad78-45918f4374b8",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 105,
+    "thickness": 15,
+    "formationDate": "2017-02-10"
+  },
+  {
+    "id": "df7462f4-5d00-4128-91d5-b2ab7d4168f3",
+    "name": "Interfind - Zyple",
+    "purposeId": "0fb8e4d4-ab71-4b9c-a257-992a0b8e543c",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 154,
+    "thickness": 5,
+    "formationDate": "2018-01-23"
+  },
+  {
+    "id": "a781cbb1-694f-4b39-95f9-0c54d1d1afeb",
+    "name": "Emoltra - Vitricomp",
+    "purposeId": "bdd53b9b-4e86-49c0-af66-2a36afffdb77",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 84,
+    "thickness": 15,
+    "formationDate": "2015-03-03"
+  },
+  {
+    "id": "f57e44a3-6ed6-4179-9909-686a7d7fe2db",
+    "name": "Irack - Fossiel",
+    "purposeId": "ca07c6fd-9508-4e66-a061-a1b90db30aca",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 179,
+    "thickness": 14,
+    "formationDate": "2015-10-29"
+  },
+  {
+    "id": "64ad8de8-1a42-4c88-b0cc-83ea3f08c945",
+    "name": "Nixelt - Panzent",
+    "purposeId": "3ea0fd18-58e8-4e41-ad78-45918f4374b8",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 123,
+    "thickness": 13,
+    "formationDate": "2016-04-07"
+  },
+  {
+    "id": "dab0ef1d-0c8f-4ed9-8672-7837981fde62",
+    "name": "Zillan - Xoggle",
+    "purposeId": "147730c8-78f7-44c6-9deb-5496eb3f5ac3",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 114,
+    "thickness": 12,
+    "formationDate": "2016-01-05"
+  },
+  {
+    "id": "c1d74958-c8fc-4986-830c-df2afc25256e",
+    "name": "Tropolis - Qnekt",
+    "purposeId": "e6b1286c-84d3-4ed7-84d6-a3bc2a1b74fd",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 93,
+    "thickness": 7,
+    "formationDate": "2014-03-17"
+  },
+  {
+    "id": "dba6cb09-0d20-4b14-8d74-ef2f673f1345",
+    "name": "Geeketron - Glukgluk",
+    "purposeId": "1fc369a7-4c30-4f5d-a7b1-34d4b1da0af0",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 143,
+    "thickness": 12,
+    "formationDate": "2019-08-16"
+  },
+  {
+    "id": "8575fdd9-6e3d-4de5-8ff4-0fd061420007",
+    "name": "Neptide - Vendblend",
+    "purposeId": "6e44e529-2aa5-4605-b9a7-28e175f0147e",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 119,
+    "thickness": 12,
+    "formationDate": "2014-04-02"
+  },
+  {
+    "id": "7385ba36-33e0-4a2a-8e6b-cdf70f43f6d3",
+    "name": "Bleeko - Isoswitch",
+    "purposeId": "71e93c8c-c01d-4bc2-a9bb-bbc9208844f0",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 71,
+    "thickness": 12,
+    "formationDate": "2017-02-06"
+  },
+  {
+    "id": "b6132793-203e-4255-ac22-244a08881e8f",
+    "name": "Futurize - Podunk",
+    "purposeId": "ca07c6fd-9508-4e66-a061-a1b90db30aca",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 96,
+    "thickness": 6,
+    "formationDate": "2014-12-25"
+  },
+  {
+    "id": "228feecd-d5e7-4283-b24e-be54fde4cc36",
+    "name": "Dognost - Insurity",
+    "purposeId": "6e44e529-2aa5-4605-b9a7-28e175f0147e",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 170,
+    "thickness": 6,
+    "formationDate": "2018-05-09"
+  },
+  {
+    "id": "b42faa88-f034-4fbe-a1d4-d5362635e014",
+    "name": "Comverges - Exoplode",
+    "purposeId": "6e44e529-2aa5-4605-b9a7-28e175f0147e",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 120,
+    "thickness": 7,
+    "formationDate": "2019-06-08"
+  },
+  {
+    "id": "990018f3-c7d7-4334-b78b-80ce01ebce40",
+    "name": "Gazak - Qualitex",
+    "purposeId": "0fb8e4d4-ab71-4b9c-a257-992a0b8e543c",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 109,
+    "thickness": 6,
+    "formationDate": "2015-01-09"
+  },
+  {
+    "id": "2565e4ad-8bb0-4cd4-b2d8-b1b88f06f548",
+    "name": "Assurity - Zanilla",
+    "purposeId": "a3a85e6a-3c8b-4a46-9f08-02de0f978b05",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 171,
+    "thickness": 14,
+    "formationDate": "2020-04-18"
+  },
+  {
+    "id": "68f95260-fa7c-4b30-8446-a1db24395d3a",
+    "name": "Earthwax - Snacktion",
+    "purposeId": "6986344b-d3cd-4bcc-9e79-879d0a1526df",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 162,
+    "thickness": 13,
+    "formationDate": "2016-02-23"
+  },
+  {
+    "id": "48e4cddc-8394-4281-a3e2-81065ffa1098",
+    "name": "Isostream - Freakin",
+    "purposeId": "30a2f4b6-5e39-498f-bc59-e4f6ab4784a6",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 197,
+    "thickness": 14,
+    "formationDate": "2019-10-02"
+  },
+  {
+    "id": "4c08a4a2-1235-4e82-ac27-8ddbbb9e92c2",
+    "name": "Netplode - Zappix",
+    "purposeId": "6986344b-d3cd-4bcc-9e79-879d0a1526df",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 55,
+    "thickness": 5,
+    "formationDate": "2015-11-26"
+  },
+  {
+    "id": "3c716806-7aec-4f68-90ab-bed591aa0cfa",
+    "name": "Quiltigen - Xymonk",
+    "purposeId": "bdd53b9b-4e86-49c0-af66-2a36afffdb77",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 79,
+    "thickness": 14,
+    "formationDate": "2014-09-08"
+  },
+  {
+    "id": "add66bef-14eb-4a57-94d2-f787805b911d",
+    "name": "Vetron - Ecraze",
+    "purposeId": "0fb8e4d4-ab71-4b9c-a257-992a0b8e543c",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 115,
+    "thickness": 6,
+    "formationDate": "2015-08-25"
+  },
+  {
+    "id": "2e239a81-8c00-470d-9b3a-1a85bce5caf0",
+    "name": "Webiotic - Elpro",
+    "purposeId": "cdc8f1c7-0f0a-4c21-abf7-102a9be7b428",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 143,
+    "thickness": 6,
+    "formationDate": "2020-10-01"
+  },
+  {
+    "id": "6776493f-0d09-49d2-be82-35f602fd653d",
+    "name": "Exposa - Wrapture",
+    "purposeId": "77b88070-d0ce-48bc-8032-9e01de4dc95e",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 121,
+    "thickness": 6,
+    "formationDate": "2019-07-24"
+  },
+  {
+    "id": "861f14fe-257a-41de-9a70-f08b69ce6bf2",
+    "name": "Optique - Vidto",
+    "purposeId": "a3a85e6a-3c8b-4a46-9f08-02de0f978b05",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 106,
+    "thickness": 14,
+    "formationDate": "2016-10-31"
+  },
+  {
+    "id": "6f9e7df9-3da6-43d7-94f6-508d45a50235",
+    "name": "Jumpstack - Xumonk",
+    "purposeId": "cdc8f1c7-0f0a-4c21-abf7-102a9be7b428",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 193,
+    "thickness": 5,
+    "formationDate": "2019-08-13"
+  },
+  {
+    "id": "9639a79b-c81e-4c46-be5a-fa05206a1552",
+    "name": "Orboid - Keengen",
+    "purposeId": "bdd53b9b-4e86-49c0-af66-2a36afffdb77",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 182,
+    "thickness": 13,
+    "formationDate": "2019-09-29"
+  },
+  {
+    "id": "9ca41492-0cb9-40e7-a081-710553c57504",
+    "name": "Zedalis - Roughies",
+    "purposeId": "bdd53b9b-4e86-49c0-af66-2a36afffdb77",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 62,
+    "thickness": 15,
+    "formationDate": "2019-06-25"
+  },
+  {
+    "id": "e616f71d-d149-48b3-aa1d-5b4d6c003a77",
+    "name": "Pulze - Megall",
+    "purposeId": "2dd4bdcb-6f27-49d8-9c43-87ac27bbf0f8",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 176,
+    "thickness": 14,
+    "formationDate": "2019-12-01"
+  },
+  {
+    "id": "9a8163ae-7228-40c7-9b20-c405fa924927",
+    "name": "Gynk - Vertide",
+    "purposeId": "77b88070-d0ce-48bc-8032-9e01de4dc95e",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 128,
+    "thickness": 9,
+    "formationDate": "2014-11-17"
+  },
+  {
+    "id": "3044474c-eca3-42cf-bdef-d12fb490cadd",
+    "name": "Xth - Applica",
+    "purposeId": "2dd4bdcb-6f27-49d8-9c43-87ac27bbf0f8",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 123,
+    "thickness": 6,
+    "formationDate": "2016-11-08"
+  },
+  {
+    "id": "9c4f51ab-4478-4467-82d3-7210bac2ca5e",
+    "name": "Songbird - Comstruct",
+    "purposeId": "7034b3b4-0537-4522-9e37-3a032f3dcb32",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 188,
+    "thickness": 12,
+    "formationDate": "2014-01-12"
+  },
+  {
+    "id": "8aa4e364-cb36-4a5d-b0c5-eef528b89f2c",
+    "name": "Stockpost - Bristo",
+    "purposeId": "89c270dd-db6c-4227-bb7e-43c7b1408d69",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 99,
+    "thickness": 13,
+    "formationDate": "2020-09-29"
+  },
+  {
+    "id": "44ce5e34-b796-436a-8dee-dd037b5314ec",
+    "name": "Peticular - Tasmania",
+    "purposeId": "89c270dd-db6c-4227-bb7e-43c7b1408d69",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 163,
+    "thickness": 7,
+    "formationDate": "2018-08-21"
+  },
+  {
+    "id": "40758b88-8474-4b47-8d0b-46bb142b2ed0",
+    "name": "Maroptic - Cablam",
+    "purposeId": "686bd869-b8cf-4b8a-951d-290d8c1c9a15",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 123,
+    "thickness": 7,
+    "formationDate": "2014-07-23"
+  },
+  {
+    "id": "5083350c-a900-4ba0-a3d0-b90671b51992",
+    "name": "Zerology - Dogspa",
+    "purposeId": "6e44e529-2aa5-4605-b9a7-28e175f0147e",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 70,
+    "thickness": 7,
+    "formationDate": "2015-02-28"
+  },
+  {
+    "id": "f9155813-ccf0-4647-9939-f0d733f4ef8c",
+    "name": "Geekola - Autograte",
+    "purposeId": "2dd4bdcb-6f27-49d8-9c43-87ac27bbf0f8",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 137,
+    "thickness": 11,
+    "formationDate": "2020-07-06"
+  },
+  {
+    "id": "399b129e-7896-48c9-ab36-b515603f3437",
+    "name": "Gynko - Poshome",
+    "purposeId": "71e93c8c-c01d-4bc2-a9bb-bbc9208844f0",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 194,
+    "thickness": 10,
+    "formationDate": "2014-09-18"
+  },
+  {
+    "id": "7d03820b-28bd-463c-991b-d800d74eb8a3",
+    "name": "Mediot - Turnabout",
+    "purposeId": "ed3ba04a-6d03-42c9-bb99-0ba2dfd971b7",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 177,
+    "thickness": 13,
+    "formationDate": "2016-05-23"
+  },
+  {
+    "id": "a5247f40-0d8d-4b3e-a829-7b7741e26b81",
+    "name": "Lyria - Retrotex",
+    "purposeId": "1fc369a7-4c30-4f5d-a7b1-34d4b1da0af0",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 149,
+    "thickness": 9,
+    "formationDate": "2019-11-19"
+  },
+  {
+    "id": "35b951d0-cb44-44bc-a791-416b228b20e3",
+    "name": "Ziggles - Myopium",
+    "purposeId": "77b88070-d0ce-48bc-8032-9e01de4dc95e",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 52,
+    "thickness": 14,
+    "formationDate": "2016-06-03"
+  },
+  {
+    "id": "e2453fcf-cf88-4361-b392-fd1fe4fed1b8",
+    "name": "Zorromop - Soprano",
+    "purposeId": "89c270dd-db6c-4227-bb7e-43c7b1408d69",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 72,
+    "thickness": 11,
+    "formationDate": "2017-02-13"
+  },
+  {
+    "id": "ca5870ee-c54c-448c-b686-d5f17c92b027",
+    "name": "Aeora - Anarco",
+    "purposeId": "2dd4bdcb-6f27-49d8-9c43-87ac27bbf0f8",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 187,
+    "thickness": 12,
+    "formationDate": "2014-01-14"
+  },
+  {
+    "id": "70cc5a50-f86e-42e4-9f02-491ea4467058",
+    "name": "Virxo - Opticall",
+    "purposeId": "4f91650e-df7d-4159-ad08-96fa454daaef",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 56,
+    "thickness": 5,
+    "formationDate": "2015-03-06"
+  },
+  {
+    "id": "fd9cdac0-afdc-4fc8-b4b1-09aa33353c22",
+    "name": "Terrago - Jimbies",
+    "purposeId": "a07e14f4-ae10-4fa9-bbcc-422ec5e6cd63",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 68,
+    "thickness": 10,
+    "formationDate": "2016-02-29"
+  },
+  {
+    "id": "c9750b8d-14c1-4a9f-91c9-9368912e3bb1",
+    "name": "Capscreen - Gronk",
+    "purposeId": "77b88070-d0ce-48bc-8032-9e01de4dc95e",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 51,
+    "thickness": 13,
+    "formationDate": "2015-11-27"
+  },
+  {
+    "id": "549d140b-18b3-42ba-a144-60f7a5e8edda",
+    "name": "Quantasis - Quarex",
+    "purposeId": "fbac4a05-3a09-4b34-9d87-e3ee79867a3a",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 76,
+    "thickness": 7,
+    "formationDate": "2014-09-10"
+  },
+  {
+    "id": "d6e314ab-8588-4df4-96a3-ef1009dd2865",
+    "name": "Ginkogene - Slofast",
+    "purposeId": "3ea0fd18-58e8-4e41-ad78-45918f4374b8",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 193,
+    "thickness": 14,
+    "formationDate": "2015-12-04"
+  },
+  {
+    "id": "814b8bc3-644c-4b73-b21b-8c755fe69894",
+    "name": "Isotronic - Aquoavo",
+    "purposeId": "71e93c8c-c01d-4bc2-a9bb-bbc9208844f0",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 94,
+    "thickness": 11,
+    "formationDate": "2015-06-17"
+  },
+  {
+    "id": "c603360d-5c0a-47ce-b4f5-4132c24e44ae",
+    "name": "Assistix - Enormo",
+    "purposeId": "147730c8-78f7-44c6-9deb-5496eb3f5ac3",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 151,
+    "thickness": 9,
+    "formationDate": "2020-01-05"
+  },
+  {
+    "id": "5978aae5-84bd-4485-acbd-1c11fddb8caa",
+    "name": "Omnigog - Sultraxin",
+    "purposeId": "ad1e6ee7-b179-4772-97bd-09a8d9cfa601",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 122,
+    "thickness": 13,
+    "formationDate": "2018-10-21"
+  },
+  {
+    "id": "bf6b58cc-02c5-4044-8a71-a6bda2db6204",
+    "name": "Extrawear - Stralum",
+    "purposeId": "71e93c8c-c01d-4bc2-a9bb-bbc9208844f0",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 117,
+    "thickness": 15,
+    "formationDate": "2020-02-20"
+  },
+  {
+    "id": "86551aa6-2133-45da-ace9-bdaaf285474b",
+    "name": "Digirang - Digifad",
+    "purposeId": "0fb8e4d4-ab71-4b9c-a257-992a0b8e543c",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 103,
+    "thickness": 13,
+    "formationDate": "2016-02-08"
+  },
+  {
+    "id": "cc68e297-2b46-432c-adbe-3411f56e48d3",
+    "name": "Enjola - Martgo",
+    "purposeId": "55643062-5cd6-476c-918c-d2c054a0d529",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 159,
+    "thickness": 15,
+    "formationDate": "2016-02-23"
+  },
+  {
+    "id": "e6ece6d9-ac77-4ec9-92f4-6864ab268751",
+    "name": "Accupharm - Biospan",
+    "purposeId": "cb1851a5-8c8d-40bb-befd-f1fd7085c8ff",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 121,
+    "thickness": 6,
+    "formationDate": "2020-08-12"
+  },
+  {
+    "id": "b7537d2b-e5d9-46df-8313-bb5e18c94a4c",
+    "name": "Rubadub - Quizka",
+    "purposeId": "ad1e6ee7-b179-4772-97bd-09a8d9cfa601",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 78,
+    "thickness": 5,
+    "formationDate": "2018-12-12"
+  },
+  {
+    "id": "01cd400d-943a-4d5c-bd05-f3a397f8cf51",
+    "name": "Rameon - Cinesanct",
+    "purposeId": "55643062-5cd6-476c-918c-d2c054a0d529",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 140,
+    "thickness": 12,
+    "formationDate": "2014-10-28"
+  },
+  {
+    "id": "54e319e8-4e81-4b59-9e7e-b7c3a5461b0e",
+    "name": "Geekko - Puria",
+    "purposeId": "beb7f360-5adf-40fe-8265-3e7a31a3cb2c",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 160,
+    "thickness": 15,
+    "formationDate": "2015-09-16"
+  },
+  {
+    "id": "079ddb1d-65d4-4f2a-9496-8365136fe7ee",
+    "name": "Portaline - Endicil",
+    "purposeId": "e6b1286c-84d3-4ed7-84d6-a3bc2a1b74fd",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 150,
+    "thickness": 10,
+    "formationDate": "2015-10-27"
+  },
+  {
+    "id": "bf8ab94b-80da-4d1b-a454-1d10405b0cc9",
+    "name": "Parleynet - Fleetmix",
+    "purposeId": "30a2f4b6-5e39-498f-bc59-e4f6ab4784a6",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 143,
+    "thickness": 15,
+    "formationDate": "2018-04-14"
+  },
+  {
+    "id": "7f9aee55-c66f-4f5c-baf6-68a5f6a786eb",
+    "name": "Collaire - Nspire",
+    "purposeId": "cdc8f1c7-0f0a-4c21-abf7-102a9be7b428",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 195,
+    "thickness": 11,
+    "formationDate": "2017-04-30"
+  },
+  {
+    "id": "8f77253a-3349-4160-aff9-79715eadc686",
+    "name": "Bizmatic - Ginkle",
+    "purposeId": "6986344b-d3cd-4bcc-9e79-879d0a1526df",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 168,
+    "thickness": 7,
+    "formationDate": "2020-11-27"
+  },
+  {
+    "id": "8a714c46-69ce-4883-8cc7-6ad76ea9c0d8",
+    "name": "Vinch - Dancerity",
+    "purposeId": "cb1851a5-8c8d-40bb-befd-f1fd7085c8ff",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 113,
+    "thickness": 6,
+    "formationDate": "2018-12-24"
+  },
+  {
+    "id": "23fa01c5-3461-4735-83c5-16db549a9c1a",
+    "name": "Pearlesex - Typhonica",
+    "purposeId": "ad1e6ee7-b179-4772-97bd-09a8d9cfa601",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 195,
+    "thickness": 10,
+    "formationDate": "2015-07-25"
+  },
+  {
+    "id": "e40ccd51-c992-4b2c-91e2-e36ded518c68",
+    "name": "Techtrix - Temorak",
+    "purposeId": "7034b3b4-0537-4522-9e37-3a032f3dcb32",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 56,
+    "thickness": 10,
+    "formationDate": "2018-08-28"
+  },
+  {
+    "id": "b723d1f4-7e49-4e9f-8db8-7f59c7d0eb50",
+    "name": "Daycore - Solgan",
+    "purposeId": "ad1e6ee7-b179-4772-97bd-09a8d9cfa601",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 178,
+    "thickness": 5,
+    "formationDate": "2016-08-12"
+  },
+  {
+    "id": "f9f9d157-86dc-4f15-943f-c70a698a6e2e",
+    "name": "Quinex - Duoflex",
+    "purposeId": "6986344b-d3cd-4bcc-9e79-879d0a1526df",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 96,
+    "thickness": 13,
+    "formationDate": "2015-04-30"
+  },
+  {
+    "id": "2a24a8cc-48f7-4bc6-9858-c49d36175a26",
+    "name": "Quordate - Kongene",
+    "purposeId": "6e44e529-2aa5-4605-b9a7-28e175f0147e",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 57,
+    "thickness": 14,
+    "formationDate": "2015-05-11"
+  },
+  {
+    "id": "5f06bb5d-24f8-426e-800c-302cf581961b",
+    "name": "Zoarere - Opticom",
+    "purposeId": "71e93c8c-c01d-4bc2-a9bb-bbc9208844f0",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 52,
+    "thickness": 12,
+    "formationDate": "2020-10-21"
+  },
+  {
+    "id": "00d0ba35-69f0-4984-9815-417547cc5e73",
+    "name": "Kindaloo - Kengen",
+    "purposeId": "30a2f4b6-5e39-498f-bc59-e4f6ab4784a6",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 99,
+    "thickness": 8,
+    "formationDate": "2015-10-10"
+  },
+  {
+    "id": "7effe2a1-e45c-4ff9-a852-2f27c87ad49d",
+    "name": "Dogtown - Senmao",
+    "purposeId": "e6b1286c-84d3-4ed7-84d6-a3bc2a1b74fd",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 84,
+    "thickness": 15,
+    "formationDate": "2019-07-05"
+  },
+  {
+    "id": "20fdc20e-549a-4107-932f-f124b789d8b7",
+    "name": "Aclima - Isologix",
+    "purposeId": "147730c8-78f7-44c6-9deb-5496eb3f5ac3",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 97,
+    "thickness": 9,
+    "formationDate": "2018-08-28"
+  },
+  {
+    "id": "eb0b7802-cbfa-45e9-b6ad-307eced349fe",
+    "name": "Asimiline - Navir",
+    "purposeId": "0fb8e4d4-ab71-4b9c-a257-992a0b8e543c",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 188,
+    "thickness": 12,
+    "formationDate": "2020-05-21"
+  },
+  {
+    "id": "dfa38a93-6e53-40f8-ad4d-879d13e79c6b",
+    "name": "Sealoud - Talkola",
+    "purposeId": "78174485-b7d4-4305-a956-8e67dece76b6",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 178,
+    "thickness": 9,
+    "formationDate": "2019-07-07"
+  },
+  {
+    "id": "ecfe8733-555d-4194-b40c-3450de5bf6ef",
+    "name": "Klugger - Artworlds",
+    "purposeId": "ed3ba04a-6d03-42c9-bb99-0ba2dfd971b7",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 88,
+    "thickness": 14,
+    "formationDate": "2018-05-28"
+  },
+  {
+    "id": "f391c322-0f0a-4625-a058-c2e504635704",
+    "name": "Eventage - Apextri",
+    "purposeId": "7034b3b4-0537-4522-9e37-3a032f3dcb32",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 72,
+    "thickness": 11,
+    "formationDate": "2016-08-21"
+  },
+  {
+    "id": "218c3183-e14f-40e2-b155-b4cfbd2783ef",
+    "name": "Surelogic - Gorganic",
+    "purposeId": "ca07c6fd-9508-4e66-a061-a1b90db30aca",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 72,
+    "thickness": 6,
+    "formationDate": "2019-03-01"
+  },
+  {
+    "id": "951d7d27-63f1-4c79-854d-e58a82e0b8d6",
+    "name": "Insurety - Comvene",
+    "purposeId": "0fb8e4d4-ab71-4b9c-a257-992a0b8e543c",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 80,
+    "thickness": 12,
+    "formationDate": "2014-07-09"
+  },
+  {
+    "id": "42efa573-8fe5-487a-a0db-e811f2bdb01c",
+    "name": "Datagene - Valreda",
+    "purposeId": "77b88070-d0ce-48bc-8032-9e01de4dc95e",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 91,
+    "thickness": 6,
+    "formationDate": "2015-01-16"
+  },
+  {
+    "id": "c0789b11-e4d1-4474-ae04-1c2e2babd232",
+    "name": "Comtext - Blurrybus",
+    "purposeId": "4f91650e-df7d-4159-ad08-96fa454daaef",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 67,
+    "thickness": 8,
+    "formationDate": "2014-01-26"
+  },
+  {
+    "id": "0e6715d1-470e-4454-9e8e-b96f6da2b702",
+    "name": "Recognia - Prismatic",
+    "purposeId": "3ea0fd18-58e8-4e41-ad78-45918f4374b8",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 175,
+    "thickness": 15,
+    "formationDate": "2019-04-29"
+  },
+  {
+    "id": "8ce79ee3-8ea4-4fa8-862a-43ab92624ac2",
+    "name": "Eventex - Portica",
+    "purposeId": "30a2f4b6-5e39-498f-bc59-e4f6ab4784a6",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 195,
+    "thickness": 6,
+    "formationDate": "2019-02-27"
+  },
+  {
+    "id": "dec9559e-6caa-4613-8868-5d5a257d1b80",
+    "name": "Corecom - Fuelton",
+    "purposeId": "89c270dd-db6c-4227-bb7e-43c7b1408d69",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 117,
+    "thickness": 6,
+    "formationDate": "2015-09-07"
+  },
+  {
+    "id": "47b3fe49-d2df-4bb6-a068-f1c16b021562",
+    "name": "Extragene - Remold",
+    "purposeId": "55643062-5cd6-476c-918c-d2c054a0d529",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 87,
+    "thickness": 8,
+    "formationDate": "2015-05-02"
+  },
+  {
+    "id": "f5446951-0035-4d0d-a3b8-c645522e9f5b",
+    "name": "Uneeq - Xanide",
+    "purposeId": "2dd4bdcb-6f27-49d8-9c43-87ac27bbf0f8",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 82,
+    "thickness": 14,
+    "formationDate": "2016-05-21"
+  },
+  {
+    "id": "5c4c8b0e-bc16-44bf-87d5-515457fbc630",
+    "name": "Powernet - Zoid",
+    "purposeId": "cdc8f1c7-0f0a-4c21-abf7-102a9be7b428",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 192,
+    "thickness": 13,
+    "formationDate": "2014-05-20"
+  },
+  {
+    "id": "88e11d7a-868a-4933-923d-61f8be1ce454",
+    "name": "Eargo - Gleamink",
+    "purposeId": "55643062-5cd6-476c-918c-d2c054a0d529",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 200,
+    "thickness": 13,
+    "formationDate": "2019-09-26"
+  },
+  {
+    "id": "121390a6-8d1a-4d8f-8885-c94781168f6c",
+    "name": "Combot - Comstar",
+    "purposeId": "686bd869-b8cf-4b8a-951d-290d8c1c9a15",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 179,
+    "thickness": 7,
+    "formationDate": "2017-11-20"
+  },
+  {
+    "id": "3d334b9b-d031-413f-b3e0-53c42abf582f",
+    "name": "Gadtron - Octocore",
+    "purposeId": "a07e14f4-ae10-4fa9-bbcc-422ec5e6cd63",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 57,
+    "thickness": 6,
+    "formationDate": "2015-12-27"
+  },
+  {
+    "id": "2cf641bb-bbe7-4372-ab32-c7b7d00a18b4",
+    "name": "Providco - Primordia",
+    "purposeId": "fbac4a05-3a09-4b34-9d87-e3ee79867a3a",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 127,
+    "thickness": 15,
+    "formationDate": "2014-07-31"
+  },
+  {
+    "id": "aa3c8f4b-4b7b-417a-b6dd-7c3c10782562",
+    "name": "Hopeli - Talae",
+    "purposeId": "30a2f4b6-5e39-498f-bc59-e4f6ab4784a6",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 169,
+    "thickness": 8,
+    "formationDate": "2019-11-14"
+  },
+  {
+    "id": "c08ec628-8778-4144-a46a-b3d2229e5a9e",
+    "name": "Unia - Ovation",
+    "purposeId": "e6b1286c-84d3-4ed7-84d6-a3bc2a1b74fd",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 174,
+    "thickness": 12,
+    "formationDate": "2016-11-12"
+  },
+  {
+    "id": "83fc92d7-4f18-4db9-b584-2d8caf5c872f",
+    "name": "Recrisys - Homelux",
+    "purposeId": "7034b3b4-0537-4522-9e37-3a032f3dcb32",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 150,
+    "thickness": 10,
+    "formationDate": "2019-02-10"
+  },
+  {
+    "id": "edb07f33-c5e4-45a3-8d03-8ab4dfd30800",
+    "name": "Grupoli - Fanfare",
+    "purposeId": "55643062-5cd6-476c-918c-d2c054a0d529",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 194,
+    "thickness": 11,
+    "formationDate": "2017-11-27"
+  },
+  {
+    "id": "49cbf1c8-9719-454e-ab14-d21903e645a1",
+    "name": "Zenthall - Proflex",
+    "purposeId": "30a2f4b6-5e39-498f-bc59-e4f6ab4784a6",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 83,
+    "thickness": 12,
+    "formationDate": "2019-08-24"
+  },
+  {
+    "id": "09a8b4ad-5cd7-4ef9-ba34-0c41b4a4215a",
+    "name": "Buzzness - Yurture",
+    "purposeId": "eddce2b4-731e-4547-bb27-76cccb4cfdb7",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 54,
+    "thickness": 11,
+    "formationDate": "2014-04-27"
+  },
+  {
+    "id": "fd4027e3-47cc-4ddc-9b6c-2e1205e8be4c",
+    "name": "Printspan - Zanymax",
+    "purposeId": "a3a85e6a-3c8b-4a46-9f08-02de0f978b05",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 67,
+    "thickness": 7,
+    "formationDate": "2018-08-28"
+  },
+  {
+    "id": "1175dd7e-575a-44ba-a82b-4b2b6ca1b475",
+    "name": "Katakana - Musanpoly",
+    "purposeId": "beb7f360-5adf-40fe-8265-3e7a31a3cb2c",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 195,
+    "thickness": 10,
+    "formationDate": "2019-08-09"
+  },
+  {
+    "id": "a5a132c5-f95e-4de7-b2f2-afdeeba5d8ad",
+    "name": "Sureplex - Bedlam",
+    "purposeId": "71e93c8c-c01d-4bc2-a9bb-bbc9208844f0",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 50,
+    "thickness": 14,
+    "formationDate": "2015-01-15"
+  },
+  {
+    "id": "6589b043-7168-46f3-81e4-d28cf6c5a583",
+    "name": "Gaptec - Venoflex",
+    "purposeId": "78174485-b7d4-4305-a956-8e67dece76b6",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 164,
+    "thickness": 10,
+    "formationDate": "2020-08-23"
+  },
+  {
+    "id": "08cdd5e0-acaa-4cc8-a6ca-43827e44ea26",
+    "name": "Hometown - Synkgen",
+    "purposeId": "beb7f360-5adf-40fe-8265-3e7a31a3cb2c",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 138,
+    "thickness": 15,
+    "formationDate": "2015-10-13"
+  },
+  {
+    "id": "bfbaa83d-438e-4a1a-8d1b-78ad5ded6b61",
+    "name": "Buzzworks - Rugstars",
+    "purposeId": "db9d6c99-67aa-449c-bcac-81de65e6de2d",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 64,
+    "thickness": 11,
+    "formationDate": "2017-07-30"
+  },
+  {
+    "id": "affcf5e0-e7a7-4762-b7b0-25f84d82e429",
+    "name": "Magneato - Bunga",
+    "purposeId": "1fc369a7-4c30-4f5d-a7b1-34d4b1da0af0",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 119,
+    "thickness": 8,
+    "formationDate": "2017-01-25"
+  },
+  {
+    "id": "23ba7cc6-f4bc-4eaa-b017-9dc1a44d3904",
+    "name": "Zerbina - Ecosys",
+    "purposeId": "686bd869-b8cf-4b8a-951d-290d8c1c9a15",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 145,
+    "thickness": 9,
+    "formationDate": "2017-03-24"
+  },
+  {
+    "id": "c30bae70-aaed-4a7f-be49-188403aec575",
+    "name": "Jetsilk - Verton",
+    "purposeId": "147730c8-78f7-44c6-9deb-5496eb3f5ac3",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 131,
+    "thickness": 5,
+    "formationDate": "2017-12-26"
+  },
+  {
+    "id": "ea4fea61-41e2-43c4-89f5-024bb29447f3",
+    "name": "Nutralab - Microluxe",
+    "purposeId": "cb1851a5-8c8d-40bb-befd-f1fd7085c8ff",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 117,
+    "thickness": 7,
+    "formationDate": "2014-02-24"
+  },
+  {
+    "id": "7403771b-155b-4ea4-b18c-e14d346c7689",
+    "name": "Nurali - Securia",
+    "purposeId": "6986344b-d3cd-4bcc-9e79-879d0a1526df",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 186,
+    "thickness": 10,
+    "formationDate": "2016-09-26"
+  },
+  {
+    "id": "599bfeec-2490-4f79-84c4-0f06421a8835",
+    "name": "Pharmex - Geofarm",
+    "purposeId": "7034b3b4-0537-4522-9e37-3a032f3dcb32",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 101,
+    "thickness": 13,
+    "formationDate": "2019-10-20"
+  },
+  {
+    "id": "b246c26c-abf8-47e8-833f-5eb323adb4b5",
+    "name": "Makingway - Centree",
+    "purposeId": "fbac4a05-3a09-4b34-9d87-e3ee79867a3a",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 105,
+    "thickness": 9,
+    "formationDate": "2017-12-25"
+  },
+  {
+    "id": "a32d0199-e7eb-4bcd-b234-308a68e588db",
+    "name": "Prosure - Frenex",
+    "purposeId": "cdc8f1c7-0f0a-4c21-abf7-102a9be7b428",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 94,
+    "thickness": 14,
+    "formationDate": "2020-12-07"
+  },
+  {
+    "id": "d0fe4bec-aa78-403e-b078-b0cc90ff1eed",
+    "name": "Gink - Zillactic",
+    "purposeId": "cb1851a5-8c8d-40bb-befd-f1fd7085c8ff",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 177,
+    "thickness": 6,
+    "formationDate": "2016-10-17"
+  },
+  {
+    "id": "56b2bd78-8847-4ab9-8ab7-3bb6a3ff11d1",
+    "name": "Miraclis - Polarium",
+    "purposeId": "cdc8f1c7-0f0a-4c21-abf7-102a9be7b428",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 145,
+    "thickness": 6,
+    "formationDate": "2014-06-25"
+  },
+  {
+    "id": "1cd954c7-ab9a-42d7-a710-4e274ef72c4a",
+    "name": "Boink - Zuvy",
+    "purposeId": "ad1e6ee7-b179-4772-97bd-09a8d9cfa601",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 167,
+    "thickness": 13,
+    "formationDate": "2016-03-29"
+  },
+  {
+    "id": "f5582497-dcc9-4c85-8d81-11f15697b69b",
+    "name": "Comdom - Sensate",
+    "purposeId": "78174485-b7d4-4305-a956-8e67dece76b6",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 145,
+    "thickness": 14,
+    "formationDate": "2018-11-08"
+  },
+  {
+    "id": "b14d708d-62b1-4727-a65a-15fc12802409",
+    "name": "Pheast - Premiant",
+    "purposeId": "4f91650e-df7d-4159-ad08-96fa454daaef",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 89,
+    "thickness": 5,
+    "formationDate": "2020-01-03"
+  },
+  {
+    "id": "52ab2651-5d9d-40ec-b9e5-5e65e5c43a9d",
+    "name": "Knowlysis - Calcula",
+    "purposeId": "78174485-b7d4-4305-a956-8e67dece76b6",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 62,
+    "thickness": 11,
+    "formationDate": "2015-10-25"
+  },
+  {
+    "id": "e1ee8384-ced7-49de-8248-e0754113c178",
+    "name": "Furnigeer - Comcur",
+    "purposeId": "2dd4bdcb-6f27-49d8-9c43-87ac27bbf0f8",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 159,
+    "thickness": 9,
+    "formationDate": "2020-05-05"
+  },
+  {
+    "id": "fa567a5b-43c5-41c1-8f38-06206b0b01e0",
+    "name": "Entroflex - Xplor",
+    "purposeId": "a07e14f4-ae10-4fa9-bbcc-422ec5e6cd63",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 194,
+    "thickness": 11,
+    "formationDate": "2018-11-10"
+  },
+  {
+    "id": "5b9e8ade-eefc-4137-b231-240f6d24f55d",
+    "name": "Nimon - Rocklogic",
+    "purposeId": "77b88070-d0ce-48bc-8032-9e01de4dc95e",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 145,
+    "thickness": 14,
+    "formationDate": "2018-03-01"
+  },
+  {
+    "id": "2c5af59c-e3a6-483c-b736-aeac225464ec",
+    "name": "Gallaxia - Isodrive",
+    "purposeId": "78174485-b7d4-4305-a956-8e67dece76b6",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 170,
+    "thickness": 11,
+    "formationDate": "2019-05-18"
+  },
+  {
+    "id": "92b111df-ce1b-45a8-b58f-e9278b1583f7",
+    "name": "Brainquil - Extragen",
+    "purposeId": "78174485-b7d4-4305-a956-8e67dece76b6",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 69,
+    "thickness": 9,
+    "formationDate": "2018-12-19"
+  },
+  {
+    "id": "ddcd4936-2bf5-40c5-b6af-c2e748e231f2",
+    "name": "Mondicil - Architax",
+    "purposeId": "ad1e6ee7-b179-4772-97bd-09a8d9cfa601",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 76,
+    "thickness": 15,
+    "formationDate": "2016-08-02"
+  },
+  {
+    "id": "c9cca348-5900-490f-b84f-ef2fc646cf88",
+    "name": "Kongle - Minga",
+    "purposeId": "55643062-5cd6-476c-918c-d2c054a0d529",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 50,
+    "thickness": 5,
+    "formationDate": "2017-12-06"
+  },
+  {
+    "id": "cd78fc37-c544-4bf4-8a53-6cdc4e2306d0",
+    "name": "Pushcart - Blanet",
+    "purposeId": "eddce2b4-731e-4547-bb27-76cccb4cfdb7",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 88,
+    "thickness": 15,
+    "formationDate": "2019-06-27"
+  },
+  {
+    "id": "cf7a066c-d910-46bf-8e39-a06c7b4f99f4",
+    "name": "Qaboos - Mantro",
+    "purposeId": "77b88070-d0ce-48bc-8032-9e01de4dc95e",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 66,
+    "thickness": 10,
+    "formationDate": "2015-03-30"
+  },
+  {
+    "id": "a3375d51-3f32-4e41-b08c-6d9d4fe85b8f",
+    "name": "Photobin - Ontagene",
+    "purposeId": "147730c8-78f7-44c6-9deb-5496eb3f5ac3",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 185,
+    "thickness": 9,
+    "formationDate": "2019-08-15"
+  },
+  {
+    "id": "9d65d1bb-d2d9-45cb-a42a-ba70a3668e60",
+    "name": "Exospeed - Miracula",
+    "purposeId": "ad1e6ee7-b179-4772-97bd-09a8d9cfa601",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 192,
+    "thickness": 15,
+    "formationDate": "2019-02-02"
+  },
+  {
+    "id": "47ddb8d2-b633-40c6-b1f2-1745529ef305",
+    "name": "Utara - Digique",
+    "purposeId": "6e44e529-2aa5-4605-b9a7-28e175f0147e",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 107,
+    "thickness": 9,
+    "formationDate": "2017-05-28"
+  },
+  {
+    "id": "cd2ad42e-b705-49bf-972f-9e6bebb3d36d",
+    "name": "Kineticut - Gogol",
+    "purposeId": "6e44e529-2aa5-4605-b9a7-28e175f0147e",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 109,
+    "thickness": 8,
+    "formationDate": "2017-02-09"
+  },
+  {
+    "id": "6548eaca-d19d-48d3-aaa4-d25e75508088",
+    "name": "Intergeek - Olucore",
+    "purposeId": "cdc8f1c7-0f0a-4c21-abf7-102a9be7b428",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 64,
+    "thickness": 15,
+    "formationDate": "2016-12-10"
+  },
+  {
+    "id": "65ca3cd7-c247-4245-b271-0623e85597d5",
+    "name": "Corporana - Quizmo",
+    "purposeId": "ca07c6fd-9508-4e66-a061-a1b90db30aca",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 130,
+    "thickness": 10,
+    "formationDate": "2018-05-16"
+  },
+  {
+    "id": "d33f0b15-7b1a-4361-b52d-77ae43730eba",
+    "name": "Ebidco - Biolive",
+    "purposeId": "a07e14f4-ae10-4fa9-bbcc-422ec5e6cd63",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 112,
+    "thickness": 5,
+    "formationDate": "2014-05-27"
+  },
+  {
+    "id": "1b981461-4395-4a4f-b6e4-ec2e10f32799",
+    "name": "Zentix - Evidends",
+    "purposeId": "147730c8-78f7-44c6-9deb-5496eb3f5ac3",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 142,
+    "thickness": 7,
+    "formationDate": "2018-01-31"
+  },
+  {
+    "id": "b5d93e6c-6f67-4f53-bc6d-17f7563d3e12",
+    "name": "Handshake - Daido",
+    "purposeId": "db9d6c99-67aa-449c-bcac-81de65e6de2d",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 180,
+    "thickness": 6,
+    "formationDate": "2019-11-05"
+  },
+  {
+    "id": "72d92514-3d70-4601-9a33-accfecaf2404",
+    "name": "Colaire - Assitia",
+    "purposeId": "eddce2b4-731e-4547-bb27-76cccb4cfdb7",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 63,
+    "thickness": 12,
+    "formationDate": "2017-03-07"
+  },
+  {
+    "id": "6c6e75fa-5d1e-407d-bca1-e786139697e7",
+    "name": "Cemention - Ewaves",
+    "purposeId": "6e44e529-2aa5-4605-b9a7-28e175f0147e",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 194,
+    "thickness": 8,
+    "formationDate": "2015-06-23"
+  },
+  {
+    "id": "95b6c1f4-45ab-4d04-8b5c-94fa1078c6d0",
+    "name": "Boilicon - Orbiflex",
+    "purposeId": "ca07c6fd-9508-4e66-a061-a1b90db30aca",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 134,
+    "thickness": 9,
+    "formationDate": "2014-07-25"
+  },
+  {
+    "id": "cf629725-d42a-41c9-9a1e-bddf58b80865",
+    "name": "Exostream - Oatfarm",
+    "purposeId": "1fc369a7-4c30-4f5d-a7b1-34d4b1da0af0",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 156,
+    "thickness": 10,
+    "formationDate": "2015-03-13"
+  },
+  {
+    "id": "aa30d493-5eeb-4387-b08f-69b7623d6b67",
+    "name": "Kage - Pyrami",
+    "purposeId": "1fc369a7-4c30-4f5d-a7b1-34d4b1da0af0",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 138,
+    "thickness": 10,
+    "formationDate": "2015-07-19"
+  },
+  {
+    "id": "26d85a02-d4c6-4e62-917c-b1fb5c9677a5",
+    "name": "Ecratic - Rotodyne",
+    "purposeId": "beb7f360-5adf-40fe-8265-3e7a31a3cb2c",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 128,
+    "thickness": 8,
+    "formationDate": "2019-12-13"
+  },
+  {
+    "id": "a4333726-2990-4087-8c04-0e4e829f07ec",
+    "name": "Kidgrease - Accusage",
+    "purposeId": "89c270dd-db6c-4227-bb7e-43c7b1408d69",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 116,
+    "thickness": 7,
+    "formationDate": "2019-06-01"
+  },
+  {
+    "id": "03b3e5bc-9b5f-4d05-862b-f27f4d4f0e98",
+    "name": "Applidec - Nexgene",
+    "purposeId": "7034b3b4-0537-4522-9e37-3a032f3dcb32",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 188,
+    "thickness": 14,
+    "formationDate": "2015-07-03"
+  },
+  {
+    "id": "d6eebfc8-b4f1-4d05-95ec-f7c18cf43f5b",
+    "name": "Aquamate - Tersanki",
+    "purposeId": "cb1851a5-8c8d-40bb-befd-f1fd7085c8ff",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 89,
+    "thickness": 7,
+    "formationDate": "2019-04-07"
+  },
+  {
+    "id": "59cc4969-8754-4b6e-ae58-6c3ba6158444",
+    "name": "Prowaste - Exoblue",
+    "purposeId": "ed3ba04a-6d03-42c9-bb99-0ba2dfd971b7",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 114,
+    "thickness": 14,
+    "formationDate": "2017-02-08"
+  },
+  {
+    "id": "f483d19d-ec45-4846-b9ff-ef376dc7117e",
+    "name": "Electonic - Endipine",
+    "purposeId": "77b88070-d0ce-48bc-8032-9e01de4dc95e",
+    "stateId": "0ac8195c-08b0-4a00-a01d-1ed6e534fe97",
+    "diameter": 165,
+    "thickness": 13,
+    "formationDate": "2014-07-25"
+  },
+  {
+    "id": "73d150bb-3404-44dd-9b91-e1c25bf8a28e",
+    "name": "Bleendot - Codact",
+    "purposeId": "6986344b-d3cd-4bcc-9e79-879d0a1526df",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 119,
+    "thickness": 10,
+    "formationDate": "2019-08-12"
+  },
+  {
+    "id": "65550568-3476-4e74-9a94-cb090996cb6b",
+    "name": "Acusage - Filodyne",
+    "purposeId": "2dd4bdcb-6f27-49d8-9c43-87ac27bbf0f8",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 157,
+    "thickness": 6,
+    "formationDate": "2018-01-27"
+  },
+  {
+    "id": "c88ae22e-8c9f-4a84-b170-7d5a9759081c",
+    "name": "Visalia - Bitrex",
+    "purposeId": "ca07c6fd-9508-4e66-a061-a1b90db30aca",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 77,
+    "thickness": 5,
+    "formationDate": "2017-07-20"
+  },
+  {
+    "id": "285a7389-05e4-4b6e-a971-df8b180ad7f7",
+    "name": "Comtrek - Kiosk",
+    "purposeId": "6986344b-d3cd-4bcc-9e79-879d0a1526df",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 62,
+    "thickness": 9,
+    "formationDate": "2018-03-01"
+  },
+  {
+    "id": "9bc1155c-ac64-496f-a805-766e7c298b1c",
+    "name": "Norsup - Xylar",
+    "purposeId": "6e44e529-2aa5-4605-b9a7-28e175f0147e",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 164,
+    "thickness": 7,
+    "formationDate": "2015-03-01"
+  },
+  {
+    "id": "859590cf-d095-46b3-900a-31eb777d69db",
+    "name": "Envire - Conferia",
+    "purposeId": "78174485-b7d4-4305-a956-8e67dece76b6",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 154,
+    "thickness": 7,
+    "formationDate": "2018-10-14"
+  },
+  {
+    "id": "ee8f68e2-b630-4e75-9e21-9fdf401d27ea",
+    "name": "Flexigen - Medesign",
+    "purposeId": "3ea0fd18-58e8-4e41-ad78-45918f4374b8",
+    "stateId": "4e4d513b-e39c-4956-bebd-8b24d2cf1782",
+    "diameter": 64,
+    "thickness": 8,
+    "formationDate": "2017-03-18"
+  },
+  {
+    "id": "cbb6ee8a-781d-47d5-a7f1-8c485e7640fa",
+    "name": "Enthaze - Bedder",
+    "purposeId": "cb1851a5-8c8d-40bb-befd-f1fd7085c8ff",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 191,
+    "thickness": 5,
+    "formationDate": "2020-01-31"
+  },
+  {
+    "id": "95903d98-cec8-4e5b-8371-02e5edceb152",
+    "name": "Steelfab - Hatology",
+    "purposeId": "cdc8f1c7-0f0a-4c21-abf7-102a9be7b428",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 167,
+    "thickness": 15,
+    "formationDate": "2018-06-05"
+  },
+  {
+    "id": "249dd26c-deba-4c84-8a59-f2a841511b66",
+    "name": "Permadyne - Undertap",
+    "purposeId": "cdc8f1c7-0f0a-4c21-abf7-102a9be7b428",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 144,
+    "thickness": 6,
+    "formationDate": "2019-03-03"
+  },
+  {
+    "id": "58baefb7-4727-4b35-a1d4-4aa0c98d5954",
+    "name": "Halap - Oulu",
+    "purposeId": "eddce2b4-731e-4547-bb27-76cccb4cfdb7",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 74,
+    "thickness": 10,
+    "formationDate": "2015-02-02"
+  },
+  {
+    "id": "19e62b68-d49b-42fb-8a10-048ceb53c79c",
+    "name": "Zillacon - Shopabout",
+    "purposeId": "6e44e529-2aa5-4605-b9a7-28e175f0147e",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 188,
+    "thickness": 6,
+    "formationDate": "2019-08-05"
+  },
+  {
+    "id": "4fc560a6-0ab4-441e-a622-a4876e109ded",
+    "name": "Jamnation - Renovize",
+    "purposeId": "78174485-b7d4-4305-a956-8e67dece76b6",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 183,
+    "thickness": 7,
+    "formationDate": "2020-09-15"
+  },
+  {
+    "id": "9abedc95-9eea-4550-bf5a-5cedfaeaa06d",
+    "name": "Imant - Netility",
+    "purposeId": "4f91650e-df7d-4159-ad08-96fa454daaef",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 128,
+    "thickness": 13,
+    "formationDate": "2017-10-31"
+  },
+  {
+    "id": "587bd233-e35f-4cec-af0a-82d87fbeb835",
+    "name": "Bytrex - Sentia",
+    "purposeId": "eddce2b4-731e-4547-bb27-76cccb4cfdb7",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 184,
+    "thickness": 6,
+    "formationDate": "2020-10-17"
+  },
+  {
+    "id": "1586ab41-65d2-461c-a782-c4c3402a3feb",
+    "name": "Zytrek - Fitcore",
+    "purposeId": "beb7f360-5adf-40fe-8265-3e7a31a3cb2c",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 82,
+    "thickness": 6,
+    "formationDate": "2017-03-14"
+  },
+  {
+    "id": "c71f6faf-b7b3-4c82-b8e1-e81598ece8b1",
+    "name": "Medmex - Earthmark",
+    "purposeId": "fbac4a05-3a09-4b34-9d87-e3ee79867a3a",
+    "stateId": "feb2c9e9-f0c3-4c1a-b979-9b894fea882f",
+    "diameter": 133,
+    "thickness": 8,
+    "formationDate": "2019-09-28"
+  },
+  {
+    "id": "6f8fae4b-8b09-4ef5-9a9d-39dc03614a1a",
+    "name": "Scenty - Artiq",
+    "purposeId": "7034b3b4-0537-4522-9e37-3a032f3dcb32",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 102,
+    "thickness": 13,
+    "formationDate": "2019-01-24"
+  },
+  {
+    "id": "172f38ce-35d9-41af-9ff0-3c4e905168b4",
+    "name": "Cytrak - Everest",
+    "purposeId": "eddce2b4-731e-4547-bb27-76cccb4cfdb7",
+    "stateId": "f2b4a2fc-0504-4f76-94b6-54eca96fbcfd",
+    "diameter": 150,
+    "thickness": 7,
+    "formationDate": "2018-04-16"
+  },
+  {
+    "id": "8d483517-1274-4e14-b2b8-5d43217a3737",
+    "name": "Imperium - Fibrodyne",
+    "purposeId": "0fb8e4d4-ab71-4b9c-a257-992a0b8e543c",
+    "stateId": "a9e58726-6826-4f60-a2ed-f74471a5fe24",
+    "diameter": 71,
+    "thickness": 6,
+    "formationDate": "2015-06-07"
+  },
+  {
+    "id": "bc88fba0-2c4e-4559-993f-102d918ad653",
+    "name": "Exospace - Comvey",
+    "purposeId": "4f91650e-df7d-4159-ad08-96fa454daaef",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 58,
+    "thickness": 7,
+    "formationDate": "2015-07-20"
+  },
+  {
+    "id": "53d42f03-bd74-4cfb-9559-1dc14a74a3af",
+    "name": "Infotrips - Netbook",
+    "purposeId": "cdc8f1c7-0f0a-4c21-abf7-102a9be7b428",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 161,
+    "thickness": 7,
+    "formationDate": "2019-09-25"
+  },
+  {
+    "id": "0cfb219e-32fc-4ca0-aee5-927ec9aafb4b",
+    "name": "Kidstock - Geekwagon",
+    "purposeId": "7034b3b4-0537-4522-9e37-3a032f3dcb32",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 139,
+    "thickness": 11,
+    "formationDate": "2016-08-22"
+  },
+  {
+    "id": "ad51db4e-e557-40f0-8695-c9bbc20de8db",
+    "name": "Limozen - Zillar",
+    "purposeId": "cb1851a5-8c8d-40bb-befd-f1fd7085c8ff",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 177,
+    "thickness": 12,
+    "formationDate": "2019-02-09"
+  },
+  {
+    "id": "7491b173-7309-4bd3-be22-488782f80046",
+    "name": "Zomboid - Baluba",
+    "purposeId": "147730c8-78f7-44c6-9deb-5496eb3f5ac3",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 183,
+    "thickness": 13,
+    "formationDate": "2015-06-20"
+  },
+  {
+    "id": "ddd1d419-6f3e-4cc5-9650-ab412a18918e",
+    "name": "Bullzone - Kangle",
+    "purposeId": "686bd869-b8cf-4b8a-951d-290d8c1c9a15",
+    "stateId": "b7ced462-efca-4393-9422-0bd3ee2e768f",
+    "diameter": 135,
+    "thickness": 7,
+    "formationDate": "2016-04-23"
+  },
+  {
+    "id": "40173d30-43a4-43f0-bae4-8a489abc8cc8",
+    "name": "Isosphere - Sybixtex",
+    "purposeId": "a07e14f4-ae10-4fa9-bbcc-422ec5e6cd63",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 154,
+    "thickness": 7,
+    "formationDate": "2019-11-17"
+  },
+  {
+    "id": "c4efbc6c-eac2-45a0-9b3b-c14eaf7919c7",
+    "name": "Quilm - Marvane",
+    "purposeId": "1fc369a7-4c30-4f5d-a7b1-34d4b1da0af0",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 75,
+    "thickness": 9,
+    "formationDate": "2017-01-09"
+  },
+  {
+    "id": "b3a95a6a-d896-485b-abe9-0a811c624900",
+    "name": "Magnemo - Centregy",
+    "purposeId": "3ea0fd18-58e8-4e41-ad78-45918f4374b8",
+    "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+    "diameter": 112,
+    "thickness": 9,
+    "formationDate": "2015-08-11"
+  },
+  {
+    "id": "c1e8f611-936d-4bca-aeb5-c868bcd15050",
+    "name": "Quility - Suretech",
+    "purposeId": "55643062-5cd6-476c-918c-d2c054a0d529",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 192,
+    "thickness": 11,
+    "formationDate": "2019-03-11"
+  },
+  {
+    "id": "29628b9d-ce8a-4d81-adad-3bae05597d61",
+    "name": "Extremo - Zilla",
+    "purposeId": "6986344b-d3cd-4bcc-9e79-879d0a1526df",
+    "stateId": "12b66104-0a42-4abf-9691-aa1ea3aa54d8",
+    "diameter": 151,
+    "thickness": 6,
+    "formationDate": "2020-07-03"
+  },
+  {
+    "id": "13dd9b87-ce1e-49ad-9d63-2be71e7d307f",
+    "name": "Zensure - Supportal",
+    "purposeId": "1fc369a7-4c30-4f5d-a7b1-34d4b1da0af0",
+    "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+    "diameter": 198,
+    "thickness": 10,
+    "formationDate": "2018-06-27"
+  },
+  {
+    "id": "55a46fd3-6ac0-4bd3-8ae2-e6948506c38d",
+    "name": "Dadabase - Radiantix",
+    "purposeId": "ed3ba04a-6d03-42c9-bb99-0ba2dfd971b7",
+    "stateId": "247324ba-8d2c-4617-9bae-fbeb99fda9e5",
+    "diameter": 71,
+    "thickness": 10,
+    "formationDate": "2019-02-05"
+  },
+  {
+    "id": "1c204106-72f8-4a06-ac7f-fa703730d2e3",
+    "name": "Medifax - Cofine",
+    "purposeId": "ca07c6fd-9508-4e66-a061-a1b90db30aca",
+    "stateId": "276393c2-a7d5-4a81-809f-74eab56fe672",
+    "diameter": 94,
+    "thickness": 8,
+    "formationDate": "2016-04-14"
+  },
+  {
+    "id": "d9fdc2f5-ccba-49a3-9028-a8bd1226a94b",
+    "name": "Centrexin - Cubicide",
+    "purposeId": "cb1851a5-8c8d-40bb-befd-f1fd7085c8ff",
+    "stateId": "9d40f4ef-7210-49d7-a1ef-1c378608c60a",
+    "diameter": 144,
+    "thickness": 5,
+    "formationDate": "2015-02-07"
+  }
+]}
