@@ -18,7 +18,7 @@
 - удалить, нажав на красный крестик;
 
 ## Использующиеся инструменты:
-- Vue-cli (router? store, babel, git, etc.)
+- Vue-cli (router, Vuex, babel, git, etc.)
 - JSON-server
 - axios
 

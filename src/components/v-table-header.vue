@@ -8,8 +8,6 @@
 
     <p class="header__elem item__elem">Наименование</p>
     <p class="header__elem item__elem">ID</p>
-    <p class="header__elem item__elem">ID назначения трубопровода</p>
-    <p class="header__elem item__elem">ID состояния трубопровода</p>
     <p class="header__elem item__elem">диаметр трубы, мм</p>
     <p class="header__elem item__elem">толщина стенки трубы, мм</p>
     <p class="header__elem item__elem">дата установки трубы</p>
@@ -53,27 +51,30 @@ export default {
 <style lang="scss">
 .item {
   display: flex;
-  border-bottom: 1px solid black;
+  justify-content: center;
+  border-bottom: 1px solid gray;
   padding: 5px 0;
   transition: 0.2s;
   align-items: center;
 
   &__elem {
-    width: calc(100% / 8 - 10px);
+    width: calc(100% / 6 - 15px);
     margin: 0 5px;
     text-align: center;
   }
-}
+}  
+
 
 .header {
   position: fixed;
+  justify-content: center;
   top: 0;
-  width: 100%;
+  padding: 15px 0;
+  width: 80%;
+  max-width: 1024px;
   background-color: rgb(36, 168, 213);
   color: white;
-  font-size: 1.1em;
+  font-size: 1.2em;
   border-bottom: none;
 }
-
-  
 </style>

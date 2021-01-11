@@ -1,8 +1,20 @@
 <template>
   <div id="app">
+    <v-reference-books></v-reference-books>
+
     <router-view/>
   </div>
 </template>
+
+<script>
+import vReferenceBooks from './components/v-reference-books'
+
+export default {
+  components: {
+    vReferenceBooks
+  }
+}
+</script>
 
 <style lang="scss">
 * {
@@ -18,6 +30,13 @@ button {
 
   &:active {
     box-shadow: inset 0 0 6px 0 rgb(88, 88, 88);
+  }
+
+  &:disabled,
+  &:disabled:hover {
+    background-color: gray;
+
+    
   }
 }
 
@@ -61,16 +80,32 @@ a:hover {
   &__red {    
     background-color: rgb(231, 41, 41);
     color: white;
+    transition: 0.1s;
+
+    &:hover {
+    background-color: rgb(190, 18, 18);
+    }
   } 
 
   &__green {
     background: lightgreen;
     color: white;
+    transition: 0.1s;
+
+    &:hover {
+    background: rgb(79, 252, 79);
+    }
   }
 
   &__blue {
     background-color: rgb(0, 191, 255);
     color: white;
+    transition: 0.1s;
+
+    &:hover {
+
+    background-color: rgb(0, 153, 204);
+    }
   }
 }
 </style>

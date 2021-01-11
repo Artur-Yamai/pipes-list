@@ -8,8 +8,6 @@
     ></v-popup>
     <p class="item__elem">{{pipe.name}}</p>
     <p class="item__elem">{{pipe.id}}</p>
-    <p class="item__elem">{{pipe.purposeId}}</p>
-    <p class="item__elem">{{pipe.stateId}}</p>
     <p class="item__elem">{{pipe.diameter}}</p>
     <p class="item__elem">{{pipe.thickness}}</p>
     <p class="item__elem">{{pipe.formationDate}}</p>

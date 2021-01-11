@@ -9,10 +9,23 @@ Vue.use(Vuex)
 
 export default new Vuex.Store({
   state: {
-    pipes: null
+    pipes: {},
+    states: {},
+    purpouses: {}
   },
 
   getters: {
+    getPipes(state) {
+      return state.pipes
+    },
+
+    getStates(state) {
+      return state.states
+    },
+
+    getPurpouses(state) {
+      return state.purpouses
+    }
   },
 
   mutations: {
@@ -21,8 +34,6 @@ export default new Vuex.Store({
     },
 
     addPipe(state, newPipe) {
-      let index = state.pipes.findIndex(elem => elem.id === newPipe.id)
-
       state.pipes.unshift(newPipe)
     },
 
@@ -37,6 +48,16 @@ export default new Vuex.Store({
       let elem = state.pipes.findIndex(elem => elem.id === pipeID);
 
       state.pipes.splice(elem,1)
+    },
+
+
+    getStates(state, allStates) {
+      state.states = allStates;
+    },
+
+
+    getPurpouses(state, allPurpouses) {
+      state.purpouses = allPurpouses;
     }
   },
 
@@ -58,6 +79,23 @@ export default new Vuex.Store({
 
     DELETE_PIPE({commit}, payLoad) {
       commit('deletePipe', payLoad);
+    },
+
+
+    GET_STATES({commit}) {
+      axios.get(`${URL}/states`)
+        .then(resp => {
+          commit('getStates', resp.data)
+        }).catch(err => console.error(err))
+    },
+
+
+    GET_PURPOUSES({commit}) {
+      axios.get(`${URL}/purpouses`)      
+      .then(resp => {
+        commit('getPurpouses', resp.data)   
+      }).catch(err => console.error(err))      
     }
+
   }
 })

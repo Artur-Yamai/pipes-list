@@ -43,7 +43,7 @@
     
     <button class="add-pipe__button btn btn__green"
             @click.prevent="dataRetrieval"
-    >Добавить</button>
+    >Готово</button>
     <p
       class="add-pipe__error"
       v-if="inputError"
@@ -92,18 +92,23 @@ export default {
       this.$emit('dataRetrieval', pipe)
     }
 
-  }
+  },
   
 }
 </script>
 
 <style lang="scss">
+body ~ .fade {
+  overflow: hidden;
+}
+
 .fade {
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100vH;
+  width: 100vw;
+  height: 100vh;
+  overflow: auto;
   background-color: rgba(0, 0, 0, 0.306);
   z-index: 2;
 }
