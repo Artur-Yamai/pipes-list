@@ -1,8 +1,8 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import vHome from '../components/v-home.vue'
-import vStates from '../components/states&purpouses/v-state.vue'
-import vPurpouses from '../components/states&purpouses/v-purpouses.vue'
+import vDetails from '../components/v-details.vue'
+
 
 Vue.use(VueRouter)
 
@@ -15,12 +15,14 @@ const routes = [
   {
     path: '/states',
     name: 'states',
-    component: vStates
+    component: vDetails,
+    meta: {value: 'getStates'}
   },
   {
     path: '/purpouses',
     name: 'purpouses',
-    component: vPurpouses
+    component: vDetails,
+    meta: {value: 'getPurpouses'}
   }
 ]
 

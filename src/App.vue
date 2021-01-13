@@ -12,6 +12,14 @@ import vReferenceBooks from './components/v-reference-books'
 export default {
   components: {
     vReferenceBooks
+  },
+
+  // сразу загружаем список всех труб, состояний и назначений из бд
+  created() {
+    this.$store.dispatch('GET_PIPES');
+    this.$store.dispatch('GET_STATES');
+    this.$store.dispatch('GET_PURPOUSES');
+    this.isShowPopup = false;
   }
 }
 </script>
@@ -39,6 +47,14 @@ button {
     
   }
 }
+
+li {
+    list-style-type: none;
+   }
+   ul {
+    margin-left: 0;
+    padding-left: 0;
+  }
 
 
 input {

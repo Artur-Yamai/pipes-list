@@ -29,7 +29,7 @@ export default new Vuex.Store({
   },
 
   mutations: {
-    getData(state, pipesList) {
+    getPipes(state, pipesList) {
       state.pipes = pipesList;
     },
 
@@ -62,10 +62,10 @@ export default new Vuex.Store({
   },
 
   actions: {
-    GET_DATA({commit}) {
+    GET_PIPES({commit}) {
       axios.get(`${URL}/pipes`)
         .then(resp => {
-          commit('getData', resp.data)
+          commit('getPipes', resp.data)
         }).catch(err => console.error(err))
     },
 

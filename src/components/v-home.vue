@@ -38,14 +38,6 @@ export default {
       this.isShowPopup = false;
     }
   },
-  
-  // сразу загружаем список всех труб из бд
-  beforeCreate() {
-    if(!this.$store.getters.getPipes.length) {
-    this.$store.dispatch('GET_DATA');
-    this.isShowPopup = false;
-    }
-  }
 
 }
 </script>
@@ -54,7 +46,7 @@ export default {
 
 .home {
   width: 80%;
-  max-width: 1024px;
+  min-width: 768px;
   margin: 0 auto;
 }
 

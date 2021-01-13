@@ -7,7 +7,8 @@
     ></v-popup>
 
     <p class="header__elem item__elem">Наименование</p>
-    <p class="header__elem item__elem">ID</p>
+    <p class="header__elem item__elem">Состояние</p>
+    <p class="header__elem item__elem">Назначение</p>
     <p class="header__elem item__elem">диаметр трубы, мм</p>
     <p class="header__elem item__elem">толщина стенки трубы, мм</p>
     <p class="header__elem item__elem">дата установки трубы</p>
@@ -58,7 +59,7 @@ export default {
   align-items: center;
 
   &__elem {
-    width: calc(100% / 6 - 15px);
+    width: calc(100% / 7 - 5px);
     margin: 0 5px;
     text-align: center;
   }
@@ -71,7 +72,7 @@ export default {
   top: 0;
   padding: 15px 0;
   width: 80%;
-  max-width: 1024px;
+  min-width: 768px;
   background-color: rgb(36, 168, 213);
   color: white;
   font-size: 1.2em;

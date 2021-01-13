@@ -11,13 +11,13 @@
       class="reference__button btn btn__blue"
       v-show="isDisabled.states"
       @click.prevent="stateButton"
-    >Состояние</button>
+    >Состояния</button>
 
     <button 
       class="reference__button btn btn__blue"
       v-show="isDisabled.purpouses"
       @click.prevent="purpousesButton"
-    >Назначение</button>
+    >Назначения</button>
 
   </div>
 </template>
@@ -44,19 +44,28 @@ export default {
     },
 
     homeButton() {
-      this.$router.push({name: 'home'})   
-      this.toDisabled('home')
-      
+      this.$router.push({name: 'home'});
+      this.toDisabled('home');      
     },
 
     stateButton() {
-      this.$router.push({name: 'states'});
-      this.toDisabled('states')
+      this.$router.push({name: 'states', 
+                         params: {test: 'test'}
+                       })
+      this.toDisabled('states');
+
+      if(!this.$store.getters.getStates.length) {
+        this.$store.dispatch('GET_STATES')
+      }
     },
 
     purpousesButton() {
-      this.$router.push({name: 'purpouses'})
-      this.toDisabled('purpouses')
+      this.$router.push({name: 'purpouses'});
+      this.toDisabled('purpouses');
+
+      if(!this.$store.getters.getPurpouses.length) {
+        this.$store.dispatch('GET_PURPOUSES')
+      }
     }
   }
 
@@ -73,6 +82,7 @@ export default {
   top: 70px;
 
   &__button {
+    min-width: 85px;
     margin: 8px 0;
   }
 }
