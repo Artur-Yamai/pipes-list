@@ -9,9 +9,9 @@ Vue.use(Vuex)
 
 export default new Vuex.Store({
   state: {
-    pipes: {},
-    states: {},
-    purpouses: {}
+    pipes: [],
+    states: [],
+    purpouses: []
   },
 
   getters: {
@@ -23,8 +23,14 @@ export default new Vuex.Store({
       return state.states
     },
 
-    getPurpouses(state) {
-      return state.purpouses
+    getTheState: state => id => {
+      let hit = state.states.find(elem => elem.id == id)
+      return hit.value
+    },
+
+    getThePurpous: state => id => {
+      let hit = state.purpouses.find(elem => elem.id == id)
+      return hit
     }
   },
 

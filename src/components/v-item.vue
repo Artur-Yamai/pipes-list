@@ -44,11 +44,11 @@ export default {
 
   computed: {
     getTheState() {
-      return this.pipe.stateId;
+      return this.$store.getters.getTheState(this.thePipe.stateId)
     },
 
     getThePurpous() {
-      return this.pipe.purposeId;      
+      return this.$store.getters.getThePurpous(this.thePipe.purposeId).value       
     }
   },
 
@@ -62,7 +62,6 @@ export default {
     },
 
     modifiedPipeData(updatedData) {
-      // console.log(updatedData);
       this.isShowPopup = false;
       this.$store.dispatch('UPDATED_PIPE', updatedData);
     }

@@ -1,14 +1,14 @@
 <template>
-  <div class="states">
+  <div class="details">
     
-    <div class="states__header">
-      <h2 class="states__title">Виды</h2>
+    <div class="details__header">
+      <h2 class="details__title">Виды</h2>
     </div>
-    <ul class="states__list">
+    <ul class="details__list">
       <li
-        v-for="elem in $store.getters[value.value]"
+        v-for="elem in $store.getters[order.value]"
         :key="elem.id" 
-        class="states__elem"
+        class="details__elem"
       >{{elem.value}}</li>
     </ul>
   </div>
@@ -19,7 +19,7 @@ export default {
   props: ['test'],
 
   computed: {
-    value() {
+    order() {
       return this.$route.meta
     }
   }
@@ -27,20 +27,15 @@ export default {
 </script>
 
 <style lang="scss">
-.states {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  width: 720px;
-  margin: 0 auto;
+.details {
+  width: 600px;
+  margin: 5px auto;
+  padding: 0 auto;
 
   &__header {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    padding: 5px 0;
     background-color: rgb(36, 168, 213);
     color: white;
-    width: 50%;
   }
 
   &__title {
@@ -48,8 +43,10 @@ export default {
   }
 
   &__list {
-    width: 50%;
     border: 1px solid gray;
+    max-height: 80vh;
+    overflow: scroll;
+    overflow-x: hidden;
   }
 
   &__elem{
