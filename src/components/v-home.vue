@@ -1,13 +1,16 @@
 <template>
   <div class="home">
     <v-table-header></v-table-header>
-
-    <div class="list" v-if="$store.getters.getPipes">      
-      <v-item 
+    <div class="list" v-if="$store.getters.getPipes.length">      
+      <v-item
+      
         v-for="pipe in $store.getters.getPipes"
         :key="pipe.id"
         :pipe="pipe"
       ></v-item>
+    </div>
+    <div class="list plug" v-else>
+      <h2>Грузим данные</h2>
     </div>
   </div>
 </template>
@@ -24,9 +27,13 @@ export default {
     vTableHeader,
   },
 
-  data() {
-    return {
-    }
+  computed: {
+    // ждет когда все данные подгрузятся
+    // toShowList() {
+    //   return this.$store.getters.getPipes.length &&
+    //          this.$store.getters.getStates.length &&
+    //          this.$store.getters.getPurpouses.length
+    // }
   },
 
   methods: {
@@ -56,6 +63,11 @@ export default {
   margin: 74px 0 0; 
   border-right: 1px solid gray;
   border-left: 1px solid gray;
+}
+
+.plug {
+  text-align: center;
+  border: none
 }
 
 </style>

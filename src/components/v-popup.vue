@@ -34,6 +34,38 @@
       >
     </div>
 
+    <!-- состояние трубы -->
+    <div class="add-pipe__block">
+      <p class="add-pipe__text">состояние трубы</p>
+      <select 
+        class="add-pipe__input"
+        v-model="state"
+        @click="stateSelection"
+      >
+        <option
+          v-for="elem in $store.getters.getStates"
+          :key="elem.id"
+          class="details__elem"
+        >{{elem.value}}</option>
+      </select>
+    </div>
+
+    <!-- назначение трубы -->
+    <div class="add-pipe__block">
+      <p class="add-pipe__text">назначение трубы</p>
+      <select 
+        class="add-pipe__input"
+        v-model="purpose"
+        @click="purposeSelected"
+      >
+        <option
+          v-for="elem in $store.getters.getPurpouses"
+          :key="elem.id"
+          class="details__elem"
+        >{{elem.value}}</option>
+      </select>
+    </div>
+
     <div class="add-pipe__block">
       <p class="add-pipe__text add-pipe__date">дата установки трубы</p>
       <input 
@@ -65,20 +97,35 @@ export default {
         name: '',
         formationDate: '',
         diameter: '',
-        thickness: ''
+        thickness: '',
+        purposeId: '',
+        stateId: ''
       },
+
+      state: '',
+      purpose: '',
 
       inputError: false
     }
   },
 
+
   methods: {
+    stateSelection() {
+      this.pipeData.stateId = this.$store.getters.getTheStateByValue(this.state)
+    },
+
+    purposeSelected() {
+      this.pipeData.purposeId = this.$store.getters.getThePurpousByValue(this.purpose)
+    },
+
     closeWondow() {
       this.$emit('hidePopup');
     },
 
     dataRetrieval() {
       let pipe = this.pipeData;
+      console.log(pipe);
 
       // сравнение на корректность даты
       let isDateCorrect = helpers.existingDate(pipe.formationDate);
@@ -114,7 +161,7 @@ body ~ .fade {
 }
 .add-pipe {
   width: 350px;
-  margin: 150px auto 0;
+  margin: 80px auto 0;
   padding: 16px 50px;
   background-color: rgb(37, 201, 255);
   border-radius: 8px;

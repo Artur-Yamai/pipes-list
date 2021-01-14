@@ -23,20 +23,34 @@ export default new Vuex.Store({
       return state.states
     },
 
-    getTheState: state => id => {
-      let hit = state.states.find(elem => elem.id == id)
-      return hit.value
+    getPurpouses(state) {
+      return state.purpouses
     },
 
-    getThePurpous: state => id => {
+    getTheStateById: state => id => {
+      let hit = state.states.find(elem => elem.id == id)
+      return hit
+    },
+
+    getThePurpousById: state => id => {
       let hit = state.purpouses.find(elem => elem.id == id)
       return hit
+    },
+
+    getTheStateByValue: state => value => {
+      let hit = state.states.find(elem => elem.value == value)
+      return hit.id
+    },
+
+    getThePurpousByValue: state => value => {
+      let hit = state.purpouses.find(elem => elem.value == value)
+      return hit.id
     }
   },
 
   mutations: {
     getPipes(state, pipesList) {
-      state.pipes = pipesList;
+      state.pipes.push(...pipesList);
     },
 
     addPipe(state, newPipe) {

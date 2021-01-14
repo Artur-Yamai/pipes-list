@@ -7,7 +7,7 @@
     <ul class="details__list">
       <li
         v-for="elem in $store.getters[order.value]"
-        :key="elem.id" 
+        :key="elem.id"
         class="details__elem"
       >{{elem.value}}</li>
     </ul>
@@ -16,8 +16,6 @@
 
 <script>
 export default {
-  props: ['test'],
-
   computed: {
     order() {
       return this.$route.meta

@@ -7,8 +7,19 @@
       :oldPipeData="thePipe"
     ></v-popup>
     <p class="item__elem">{{pipe.name}}</p>
-    <p class="item__elem">{{getTheState}}</p>
-    <p class="item__elem">{{getThePurpous}}</p>
+
+    <p class="item__elem">
+      <span
+        v-if="$store.getters.getStates.length"
+      >{{getTheState.value}}</span>
+    </p>
+
+    <p class="item__elem">
+      <span
+        v-if="$store.getters.getPurpouses.length"
+      >{{getThePurpous.value}}</span>
+    </p>
+
     <p class="item__elem">{{pipe.diameter}}</p>
     <p class="item__elem">{{pipe.thickness}}</p>
     <p class="item__elem">{{pipe.formationDate}}</p>
@@ -44,11 +55,11 @@ export default {
 
   computed: {
     getTheState() {
-      return this.$store.getters.getTheState(this.thePipe.stateId)
+      return this.$store.getters.getTheStateById(this.thePipe.stateId)
     },
 
     getThePurpous() {
-      return this.$store.getters.getThePurpous(this.thePipe.purposeId).value       
+      return this.$store.getters.getThePurpousById(this.thePipe.purposeId)    
     }
   },
 

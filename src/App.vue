@@ -15,11 +15,10 @@ export default {
   },
 
   // сразу загружаем список всех труб, состояний и назначений из бд
-  created() {
+  beforeCreate() {
     this.$store.dispatch('GET_PIPES');
     this.$store.dispatch('GET_STATES');
     this.$store.dispatch('GET_PURPOUSES');
-    this.isShowPopup = false;
   }
 }
 </script>
