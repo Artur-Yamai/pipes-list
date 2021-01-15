@@ -27,15 +27,6 @@ export default {
     vTableHeader,
   },
 
-  computed: {
-    // ждет когда все данные подгрузятся
-    // toShowList() {
-    //   return this.$store.getters.getPipes.length &&
-    //          this.$store.getters.getStates.length &&
-    //          this.$store.getters.getPurpouses.length
-    // }
-  },
-
   methods: {
     showPopup(data) {
       this.isShowPopup = true;

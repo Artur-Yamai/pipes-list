@@ -50,7 +50,7 @@ export default new Vuex.Store({
 
   mutations: {
     getPipes(state, pipesList) {
-      state.pipes.push(...pipesList);
+      state.pipes = pipesList.slice(0,5);
     },
 
     addPipe(state, newPipe) {
@@ -60,7 +60,12 @@ export default new Vuex.Store({
     updatedPipe(state, newData) {
       let index = state.pipes.findIndex(elem => elem.id === newData.id);
       
-      state.pipes.splice(index,1,newData)
+      console.log(index);
+
+      for(let pipe in state.pipes[index]) {
+        state.pipes[index][pipe] = newData[pipe]
+      }
+
       
     },
 

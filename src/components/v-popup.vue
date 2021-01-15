@@ -1,8 +1,6 @@
 <template>
 <div class="fade">
-
   <form class="add-pipe">
-
     <div class="add-pipe__header">
       <p class="add-pipe__close"
       ><span class="add-pipe__close-span" @click="closeWondow">&#10006;</span>
@@ -40,7 +38,6 @@
       <select 
         class="add-pipe__input"
         v-model="state"
-        @click="stateSelection"
       >
         <option
           v-for="elem in $store.getters.getStates"
@@ -53,10 +50,9 @@
     <!-- назначение трубы -->
     <div class="add-pipe__block">
       <p class="add-pipe__text">назначение трубы</p>
-      <select 
+      <select
         class="add-pipe__input"
         v-model="purpose"
-        @click="purposeSelected"
       >
         <option
           v-for="elem in $store.getters.getPurpouses"
@@ -89,11 +85,13 @@
 import helpers from '../helpers.js'
 
 export default {  
-  props: ['oldPipeData'],
+  props: {
+    oldPipeData: Object
+  },
 
   data() {
     return {
-      pipeData: {...this.oldPipeData} || {
+      pipeData: {
         name: '',
         formationDate: '',
         diameter: '',
@@ -111,13 +109,6 @@ export default {
 
 
   methods: {
-    stateSelection() {
-      this.pipeData.stateId = this.$store.getters.getTheStateByValue(this.state)
-    },
-
-    purposeSelected() {
-      this.pipeData.purposeId = this.$store.getters.getThePurpousByValue(this.purpose)
-    },
 
     closeWondow() {
       this.$emit('hidePopup');
@@ -125,21 +116,29 @@ export default {
 
     dataRetrieval() {
       let pipe = this.pipeData;
-      console.log(pipe);
+
+      pipe.stateId = this.$store.getters.getTheStateByValue(this.state) 
+      pipe.purposeId = this.$store.getters.getThePurpousByValue(this.purpose)
 
       // сравнение на корректность даты
       let isDateCorrect = helpers.existingDate(pipe.formationDate);
 
-      // проверка на адекватность внесенных данных
-      if (pipe.name.length < 2 || +pipe.diameter <= 0 || +pipe.thickness <= 0 || !isDateCorrect) {
+      // проверка на корректность данных
+      if (pipe.name.length < 2 || +pipe.diameter <= 0 || +pipe.thickness <= 0 || !isDateCorrect || !pipe.purposeId || !pipe.stateId) {
         this.inputError = true;
-        return false  
+        return false
       }
 
-      this.$emit('dataRetrieval', pipe)
+      this.$emit('dataRetrieval', pipe);
     }
 
   },
+
+  mounted() {
+    if(this.oldPipeData) {
+      this.pipeData = this.oldPipeData
+    }
+  }
   
 }
 </script>
