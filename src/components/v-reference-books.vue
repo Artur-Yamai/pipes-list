@@ -3,19 +3,19 @@
 
     <button
       class="reference__button btn btn__blue"
-      v-show="isDisabled.home"
+      :disabled="isDisabled.home"
       @click.prevent="homeButton"
     >Главная</button>
 
     <button
       class="reference__button btn btn__blue"
-      v-show="isDisabled.states"
+      :disabled="isDisabled.states"
       @click.prevent="stateButton"
     >Состояния</button>
 
     <button 
       class="reference__button btn btn__blue"
-      v-show="isDisabled.purpouses"
+      :disabled="isDisabled.purpouses"
       @click.prevent="purpousesButton"
     >Назначения</button>
 
@@ -27,10 +27,9 @@ export default {
   data() {
     return {
       isDisabled: {
-
       home: false,
-      states: true,
-      purpouses: true
+      states: false,
+      purpouses: false
       }
     }
   },
@@ -39,7 +38,7 @@ export default {
     // скрывает нажатую кнопку
     toDisabled(item) {
       for(let elem in this.isDisabled) {
-        this.isDisabled[elem] = elem != item
+        this.isDisabled[elem] = elem === item
       }
     },
 
@@ -71,7 +70,7 @@ export default {
 
   mounted() {
     for(let elem in this.isDisabled) {
-      this.isDisabled[elem] = `/${elem}` !== window.location.pathname;
+      this.isDisabled[elem] = `/${elem}` === window.location.pathname;
     }
   }
 
