@@ -117,17 +117,17 @@ export default {
     dataRetrieval() {
       let pipe = this.pipeData;
 
-      pipe.stateId = this.$store.getters.getTheStateByValue(this.state) 
-      pipe.purposeId = this.$store.getters.getThePurpousByValue(this.purpose)
-
       // сравнение на корректность даты
       let isDateCorrect = helpers.existingDate(pipe.formationDate);
 
       // проверка на корректность данных
-      if (pipe.name.length < 2 || +pipe.diameter <= 0 || +pipe.thickness <= 0 || !isDateCorrect || !pipe.purposeId || !pipe.stateId) {
+      if (pipe.name.length < 2 || +pipe.diameter <= 0 || +pipe.thickness <= 0 || !isDateCorrect || !this.state.length || !this.purpose.length) {
         this.inputError = true;
         return false
       }
+
+      pipe.stateId = this.$store.getters.getTheStateByValue(this.state) 
+      pipe.purposeId = this.$store.getters.getThePurpousByValue(this.purpose)
 
       this.$emit('dataRetrieval', pipe);
     }
@@ -136,7 +136,10 @@ export default {
 
   mounted() {
     if(this.oldPipeData) {
-      this.pipeData = this.oldPipeData
+      this.pipeData = this.oldPipeData;
+
+      this.state = this.$store.getters.getTheStateById(this.pipeData.stateId).value;
+      this.purpose = this.$store.getters.getThePurpousById(this.pipeData.purposeId).value;
     }
   }
   
@@ -144,20 +147,17 @@ export default {
 </script>
 
 <style lang="scss">
-body ~ .fade {
-  overflow: hidden;
-}
 
 .fade {
   position: fixed;
   top: 0;
-  left: 0;
   width: 100vw;
   height: 100vh;
   overflow: auto;
-  background-color: rgba(0, 0, 0, 0.306);
+  background-color: rgba(0, 0, 0, 0.3);
   z-index: 2;
 }
+
 .add-pipe {
   width: 350px;
   margin: 80px auto 0;

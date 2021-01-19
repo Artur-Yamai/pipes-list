@@ -1,25 +1,11 @@
 <template>
   <div class="item item-hover">
-    <v-popup 
+    <v-popup
       v-if="isShowPopup"
       @hidePopup="isShowPopup = false"
       @dataRetrieval="modifiedPipeData"
       :oldPipeData="pipe"
     ></v-popup>
-
-    <!-- <v-popup 
-      v-if="isShowPopup"
-      @hidePopup="isShowPopup = false"
-      @dataRetrieval="modifiedPipeData"
-      :id="pipe.id"
-      :name="pipe.name"
-      :purposeId="pipe.purposeId"
-      :stateId="pipe.id"
-      :diameter="pipe.diameter"
-      :thickness="pipe.thickness"
-      :formationDate="pipe.formationDate"
-    ></v-popup> -->
-
 
     <p class="item__elem">{{pipe.name}}</p>
 
