@@ -71,7 +71,6 @@ export default {
 
   mounted() {
     for(let elem in this.isDisabled) {
-      // console.log(window.location.pathname === '/');
       this.isDisabled[elem] = `/${elem}` !== window.location.pathname;
     }
   }

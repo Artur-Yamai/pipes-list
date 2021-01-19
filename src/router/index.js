@@ -8,7 +8,7 @@ Vue.use(VueRouter)
 
 const routes = [
   {
-    path: '/',
+    path: '/home',
     name: 'home',
     component: vHome
   },
@@ -23,6 +23,10 @@ const routes = [
     name: 'purpouses',
     component: vDetails,
     meta: {value: 'getPurpouses'}
+  },
+  {
+    path: '*',
+    redirect: '/home'
   }
 ]
 
