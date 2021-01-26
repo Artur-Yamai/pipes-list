@@ -1,13 +1,13 @@
 {
   "pipes": [
     {
-      "id": "f390cafa-7ccf-49fe-900c-b8e9a02f194f",
-      "name": "Cofine - Centrexin",
-      "purposeId": "71e93c8c-c01d-4bc2-a9bb-bbc9208844f0",
-      "stateId": "21442eb7-34d8-43a6-b7a9-620a2c6eacac",
+      "name": "Cofine - Centrexin1",
+      "formationDate": "2017-08-07",
       "diameter": 181,
       "thickness": 9,
-      "formationDate": "2017-08-07"
+      "purposeId": "71e93c8c-c01d-4bc2-a9bb-bbc9208844f0",
+      "stateId": "e6a63d5a-5b2e-469e-840a-d57cee4e841f",
+      "id": "f390cafa-7ccf-49fe-900c-b8e9a02f194f"
     },
     {
       "id": "27e419ca-4683-44ab-bc08-b03674764c90",

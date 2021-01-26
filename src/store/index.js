@@ -98,14 +98,15 @@ export default new Vuex.Store({
     },
 
     UPDATED_PIPE({commit}, payLoad) {
-      commit('updatedPipe', payLoad);
+      axios.put(`${URL}/pipes/${payLoad.id}/`, payLoad)
+        .then(() => commit('updatedPipe', payLoad))
+        .catch(err => console.error(err))
     },
 
     DELETE_PIPE({commit}, payLoad) {
       axios.delete(`${URL}/pipes/${payLoad}/`)
         .then(() => commit('deletePipe', payLoad))
         .catch(err => console.error(err))
-      // commit('deletePipe', payLoad);
     },
 
 
