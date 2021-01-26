@@ -50,11 +50,11 @@ export default new Vuex.Store({
 
   mutations: {
     getPipes(state, pipesList) {
-      state.pipes = pipesList.slice(0,30);
+      state.pipes = pipesList;
     },
 
     addPipe(state, newPipe) {
-      state.pipes.unshift(newPipe)
+      state.pipes.push(newPipe)
     },
 
     updatedPipe(state, newData) {
@@ -91,7 +91,10 @@ export default new Vuex.Store({
     },
 
     ADD_PIPE({commit}, payLoad) {
-      commit('addPipe', payLoad);
+      axios.post(`${URL}/pipes`, payLoad)
+        // если данные успешно отправились, то меняем данные на странице
+        .then(() => commit('addPipe', payLoad))
+        .catch(err => console.error(err))
     },
 
     UPDATED_PIPE({commit}, payLoad) {
@@ -99,7 +102,10 @@ export default new Vuex.Store({
     },
 
     DELETE_PIPE({commit}, payLoad) {
-      commit('deletePipe', payLoad);
+      axios.delete(`${URL}/pipes/${payLoad}/`)
+        .then(() => commit('deletePipe', payLoad))
+        .catch(err => console.error(err))
+      // commit('deletePipe', payLoad);
     },
 
 

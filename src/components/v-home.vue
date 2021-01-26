@@ -25,17 +25,7 @@ export default {
   components: {
     vItem,
     vTableHeader,
-  },
-
-  methods: {
-    showPopup(data) {
-      this.isShowPopup = true;
-    },
-
-    hidePopup() {
-      this.isShowPopup = false;
-    }
-  },
+  }
 
 }
 </script>
