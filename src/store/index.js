@@ -60,8 +60,8 @@ export default new Vuex.Store({
     updatedPipe(state, newData) {
       let index = state.pipes.findIndex(elem => elem.id === newData.id);
 
-      for(let pipe in state.pipes[index]) {
-        state.pipes[index][pipe] = newData[pipe]
+      for(let info in state.pipes[index]) {
+        state.pipes[index][info] = newData[info];
       }      
     },
 

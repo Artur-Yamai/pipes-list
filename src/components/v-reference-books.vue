@@ -35,7 +35,7 @@ export default {
   },
 
   methods: {
-    // скрывает нажатую кнопку
+    // дизейблит нажатую кнопку
     toDisabled(item) {
       for(let elem in this.isDisabled) {
         this.isDisabled[elem] = elem === item

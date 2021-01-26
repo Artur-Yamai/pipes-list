@@ -97,7 +97,8 @@ export default {
         diameter: '',
         thickness: '',
         purposeId: '',
-        stateId: ''
+        stateId: '',
+        id: ''
       },
 
       state: '',
@@ -136,7 +137,11 @@ export default {
 
   mounted() {
     if(this.oldPipeData) {
-      this.pipeData = this.oldPipeData;
+      // this.pipeData = this.oldPipeData;
+
+      for (let elem in this.pipeData) {
+        this.pipeData[elem] = this.oldPipeData[elem]
+      }
 
       this.state = this.$store.getters.getTheStateById(this.pipeData.stateId).value;
       this.purpose = this.$store.getters.getThePurpousById(this.pipeData.purposeId).value;
